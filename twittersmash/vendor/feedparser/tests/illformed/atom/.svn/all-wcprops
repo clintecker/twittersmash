@@ -1,0 +1,845 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom
+END
+feed_info_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_info_content_mode_base64.xml
+END
+feed_copyright_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_base64_2.xml
+END
+feed_copyright_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_content_value.xml
+END
+feed_title_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_inline_markup.xml
+END
+feed_link_rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_rel.xml
+END
+entry_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_content_type_text_plain.xml
+END
+entry_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_content_value.xml
+END
+feed_tagline_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_content_type_text_plain.xml
+END
+entry_link_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_multiple.xml
+END
+entry_title_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_text_plain.xml
+END
+entry_author_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_email.xml
+END
+feed_title_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_content_value.xml
+END
+relative_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/relative_uri.xml
+END
+feed_link_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_multiple.xml
+END
+feed_copyright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright.xml
+END
+entry_summary_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_inline_markup.xml
+END
+atom_namespace_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/atom_namespace_2.xml
+END
+atom_namespace_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/atom_namespace_4.xml
+END
+feed_copyright_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_base64.xml
+END
+entry_title_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_title_content_mode_base64.xml
+END
+entry_summary_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_content_value.xml
+END
+entry_summary_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_text_plain.xml
+END
+feed_title_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_title_content_mode_base64.xml
+END
+feed_author_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_url.xml
+END
+feed_title_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_escaped_markup.xml
+END
+feed_tagline_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_escaped_markup.xml
+END
+feed_contributor_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_contributor_uri.xml
+END
+entry_contributor_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_contributor_url.xml
+END
+feed_link_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_title.xml
+END
+feed_copyright_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_text_plain.xml
+END
+entry_author_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_name.xml
+END
+entry_title_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_title_content_mode_escaped.xml
+END
+feed_title_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_naked_markup.xml
+END
+entry_title_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_base64_2.xml
+END
+feed_copyright_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_inline_markup_2.xml
+END
+feed_author_homepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_homepage.xml
+END
+feed_generator_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_generator_url.xml
+END
+feed_contributor_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_contributor_name.xml
+END
+feed_title_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_content_type.xml
+END
+entry_summary_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_summary_content_mode_escaped.xml
+END
+entry_summary_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_base64_2.xml
+END
+entry_title_text_plain_brackets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_text_plain_brackets.xml
+END
+feed_title_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_base64.xml
+END
+feed_generator_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_generator_name.xml
+END
+feed_tagline_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_base64.xml
+END
+feed_copyright_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_naked_markup.xml
+END
+feed_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info.xml
+END
+feed_generator_version.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_generator_version.xml
+END
+entry_link_rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_rel.xml
+END
+feed_copyright_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_content_type.xml
+END
+feed_link_alternate_map_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_alternate_map_link.xml
+END
+feed_copyright_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_copyright_content_mode_base64.xml
+END
+feed_info_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_naked_markup.xml
+END
+entry_summary_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_content_type_text_plain.xml
+END
+entry_author_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_uri.xml
+END
+entry_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title.xml
+END
+entry_contributor_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_contributor_email.xml
+END
+feed_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title.xml
+END
+feed_contributor_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_contributor_email.xml
+END
+entry_title_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_escaped_markup.xml
+END
+feed_contributor_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/126/trunk/feedparser/tests/illformed/atom/feed_contributor_multiple.xml
+END
+feed_tagline_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_tagline_content_mode_base64.xml
+END
+feed_generator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_generator.xml
+END
+feed_info_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_content_type.xml
+END
+feed_info_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_inline_markup_2.xml
+END
+entry_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_id.xml
+END
+entry_summary_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_escaped_markup.xml
+END
+entry_link_href.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_href.xml
+END
+entry_author_map_author_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_map_author_2.xml
+END
+feed_id_map_guid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_id_map_guid.xml
+END
+feed_link_href.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_href.xml
+END
+feed_title_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_title_content_mode_escaped.xml
+END
+feed_title_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_base64_2.xml
+END
+entry_contributor_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_contributor_name.xml
+END
+feed_info_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_inline_markup.xml
+END
+entry_title_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_inline_markup_2.xml
+END
+feed_title_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_inline_markup_2.xml
+END
+feed_info_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_content_value.xml
+END
+feed_info_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_text_plain.xml
+END
+entry_title_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_base64.xml
+END
+relative_uri_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/relative_uri_inherit.xml
+END
+feed_copyright_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_copyright_content_mode_escaped.xml
+END
+feed_copyright_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_content_type_text_plain.xml
+END
+entry_title_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_inline_markup.xml
+END
+entry_summary_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_base64.xml
+END
+entry_title_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_content_value.xml
+END
+atom_namespace_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/atom_namespace_1.xml
+END
+entry_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_content_type.xml
+END
+atom_namespace_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/atom_namespace_3.xml
+END
+atom_namespace_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/atom_namespace_5.xml
+END
+feed_info_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_info_content_mode_escaped.xml
+END
+feed_info_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_base64_2.xml
+END
+feed_author_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_uri.xml
+END
+feed_tagline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline.xml
+END
+entry_contributor_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126/trunk/feedparser/tests/illformed/atom/entry_contributor_multiple.xml
+END
+entry_contributor_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_contributor_uri.xml
+END
+feed_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_id.xml
+END
+feed_contributor_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_contributor_url.xml
+END
+entry_link_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_type.xml
+END
+entry_summary_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_summary_content_mode_base64.xml
+END
+feed_link_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_type.xml
+END
+feed_author_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_name.xml
+END
+feed_tagline_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_naked_markup.xml
+END
+entry_author_homepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_homepage.xml
+END
+relative_uri_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/relative_uri_inherit_2.xml
+END
+feed_info_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_content_type_text_plain.xml
+END
+feed_tagline_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_content_type.xml
+END
+feed_contributor_homepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_contributor_homepage.xml
+END
+entry_author_map_author.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_map_author.xml
+END
+feed_tagline_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_inline_markup_2.xml
+END
+feed_author_map_author.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_map_author.xml
+END
+entry_link_alternate_map_link_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_alternate_map_link_2.xml
+END
+feed_link_alternate_map_link_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_link_alternate_map_link_2.xml
+END
+feed_info_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_escaped_markup.xml
+END
+feed_tagline_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_inline_markup.xml
+END
+entry_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_content_mode_escaped.xml
+END
+entry_title_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_content_type_text_plain.xml
+END
+feed_title_content_type_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_content_type_text_plain.xml
+END
+entry_link_alternate_map_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_alternate_map_link.xml
+END
+feed_title_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_title_text_plain.xml
+END
+feed_tagline_content_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_content_value.xml
+END
+feed_author_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_email.xml
+END
+feed_tagline_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_text_plain.xml
+END
+entry_content_mode_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/entry_content_mode_base64.xml
+END
+entry_author_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_author_url.xml
+END
+entry_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary.xml
+END
+entry_link_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_link_title.xml
+END
+feed_info_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_info_base64.xml
+END
+entry_id_map_guid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_id_map_guid.xml
+END
+entry_title_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_naked_markup.xml
+END
+feed_author_map_author_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_author_map_author_2.xml
+END
+feed_tagline_content_mode_escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127/trunk/feedparser/tests/illformed/atom/feed_tagline_content_mode_escaped.xml
+END
+feed_tagline_base64_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_tagline_base64_2.xml
+END
+entry_title_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_title_content_type.xml
+END
+feed_copyright_escaped_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_escaped_markup.xml
+END
+entry_summary_naked_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_naked_markup.xml
+END
+entry_contributor_homepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_contributor_homepage.xml
+END
+feed_copyright_inline_markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/feed_copyright_inline_markup.xml
+END
+entry_summary_content_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_content_type.xml
+END
+entry_summary_inline_markup_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/atom/entry_summary_inline_markup_2.xml
+END

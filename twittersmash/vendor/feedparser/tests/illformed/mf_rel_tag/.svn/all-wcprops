@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag
+END
+rel_tag_scheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag/rel_tag_scheme.xml
+END
+rel_tag_term.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag/rel_tag_term.xml
+END
+rel_tag_duplicate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag/rel_tag_duplicate.xml
+END
+rel_tag_term_trailing_slash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag/rel_tag_term_trailing_slash.xml
+END
+rel_tag_label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_tag/rel_tag_label.xml
+END

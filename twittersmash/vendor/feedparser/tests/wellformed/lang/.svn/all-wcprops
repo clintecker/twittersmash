@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/211/trunk/feedparser/tests/wellformed/lang
+END
+http_content_language_entry_title_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/http_content_language_entry_title_inherit.xml
+END
+feed_info_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang_inherit.xml
+END
+feed_copyright_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang_blank.xml
+END
+feed_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/feed_xml_lang.xml
+END
+entry_title_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang_inherit_2.xml
+END
+entry_title_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang_inherit_3.xml
+END
+entry_title_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang_inherit_4.xml
+END
+entry_content_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_inherit.xml
+END
+feed_info_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang.xml
+END
+item_fullitem_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_fullitem_xml_lang_inherit.xml
+END
+entry_summary_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang_inherit_2.xml
+END
+entry_summary_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang_inherit_3.xml
+END
+entry_summary_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang_inherit_4.xml
+END
+entry_content_xml_lang_blank_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_blank_2.xml
+END
+entry_content_xml_lang_blank_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_blank_3.xml
+END
+feed_language_override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/feed_language_override.xml
+END
+entry_title_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang_inherit.xml
+END
+entry_content_xml_lang_underscore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/211/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_underscore.xml
+END
+channel_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/channel_language.xml
+END
+entry_content_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang.xml
+END
+http_content_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/http_content_language.xml
+END
+feed_copyright_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang_inherit_2.xml
+END
+item_fullitem_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_fullitem_xml_lang.xml
+END
+feed_copyright_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang_inherit_3.xml
+END
+channel_dc_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/channel_dc_language.xml
+END
+entry_summary_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang_inherit.xml
+END
+feed_copyright_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang_inherit_4.xml
+END
+entry_title_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang.xml
+END
+entry_content_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_blank.xml
+END
+item_xhtml_body_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_xhtml_body_xml_lang_inherit.xml
+END
+feed_title_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang_blank.xml
+END
+feed_tagline_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang_blank.xml
+END
+entry_summary_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang.xml
+END
+http_content_language_entry_title_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/http_content_language_entry_title_inherit_2.xml
+END
+feed_not_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/feed_not_xml_lang.xml
+END
+feed_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/feed_language.xml
+END
+item_xhtml_body_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_xhtml_body_xml_lang.xml
+END
+entry_content_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_inherit_2.xml
+END
+entry_content_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_inherit_3.xml
+END
+http_content_language_feed_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/http_content_language_feed_xml_lang.xml
+END
+entry_content_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_content_xml_lang_inherit_4.xml
+END
+feed_title_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang_inherit_2.xml
+END
+feed_title_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang_inherit_3.xml
+END
+feed_tagline_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang_inherit_2.xml
+END
+feed_title_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang_inherit_4.xml
+END
+feed_tagline_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang_inherit_3.xml
+END
+feed_tagline_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang_inherit_4.xml
+END
+feed_info_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang_blank.xml
+END
+feed_title_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang_inherit.xml
+END
+item_dc_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_dc_language.xml
+END
+feed_tagline_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang_inherit.xml
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/feedparser/tests/wellformed/lang/.htaccess
+END
+item_content_encoded_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_content_encoded_xml_lang_inherit.xml
+END
+feed_not_xml_lang_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/feed_not_xml_lang_2.xml
+END
+feed_title_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_title_xml_lang.xml
+END
+feed_tagline_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_tagline_xml_lang.xml
+END
+item_content_encoded_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/82/trunk/feedparser/tests/wellformed/lang/item_content_encoded_xml_lang.xml
+END
+entry_title_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_title_xml_lang_blank.xml
+END
+feed_copyright_xml_lang_inherit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang_inherit.xml
+END
+http_content_language_feed_language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/88/trunk/feedparser/tests/wellformed/lang/http_content_language_feed_language.xml
+END
+feed_info_xml_lang_inherit_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang_inherit_2.xml
+END
+feed_info_xml_lang_inherit_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang_inherit_3.xml
+END
+feed_info_xml_lang_inherit_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_info_xml_lang_inherit_4.xml
+END
+entry_summary_xml_lang_blank.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/101/trunk/feedparser/tests/wellformed/lang/entry_summary_xml_lang_blank.xml
+END
+feed_copyright_xml_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/103/trunk/feedparser/tests/wellformed/lang/feed_copyright_xml_lang.xml
+END
+feed_xml_lang_underscore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/211/trunk/feedparser/tests/wellformed/lang/feed_xml_lang_underscore.xml
+END

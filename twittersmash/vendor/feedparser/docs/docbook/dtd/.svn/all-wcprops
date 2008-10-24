@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd
+END
+docbookx.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/docbookx.dtd
+END
+soextblx.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/soextblx.dtd
+END
+dbhierx.mod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/dbhierx.mod
+END
+dbgenent.mod
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/dbgenent.mod
+END
+dbcentx.mod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/dbcentx.mod
+END
+dbpoolx.mod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/dbpoolx.mod
+END
+calstblx.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/calstblx.dtd
+END
+docbook.cat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/docbook.cat
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/ChangeLog
+END
+catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/catalog.xml
+END
+dbnotnx.mod
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/dbnotnx.mod
+END
+htmltblx.mod
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/htmltblx.mod
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/dtd/README
+END

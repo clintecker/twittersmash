@@ -1,0 +1,2285 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params
+END
+glossary.as.blocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossary.as.blocks.xml
+END
+toc.indent.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/toc.indent.width.xml
+END
+htmlhelp.button.jump1.url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump1.url.xml
+END
+olink.base.uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.base.uri.xml
+END
+table.frame.border.thickness.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.frame.border.thickness.xml
+END
+table.borders.with.css.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.borders.with.css.xml
+END
+column.gap.front.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.front.xml
+END
+chunker.output.media-type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.media-type.xml
+END
+toc.margin.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/toc.margin.properties.xml
+END
+admonition.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admonition.properties.xml
+END
+callout.unicode.font.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.unicode.font.xml
+END
+htmlhelp.title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.title.xml
+END
+table.cell.border.color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.cell.border.color.xml
+END
+htmlhelp.button.hideshow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.hideshow.xml
+END
+profile.role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.role.xml
+END
+htmlhelp.hhp.window.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhp.window.xml
+END
+glosslist.as.blocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glosslist.as.blocks.xml
+END
+htmlhelp.encoding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.encoding.xml
+END
+html.cellpadding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.cellpadding.xml
+END
+section.title.level4.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level4.properties.xml
+END
+htmlhelp.button.zoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.zoom.xml
+END
+figure.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/figure.properties.xml
+END
+htmlhelp.window.geometry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.window.geometry.xml
+END
+navig.graphics.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/navig.graphics.extension.xml
+END
+htmlhelp.use.hhk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.use.hhk.xml
+END
+suppress.navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/suppress.navigation.xml
+END
+graphicsize.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/graphicsize.extension.xml
+END
+passivetex.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/passivetex.extensions.xml
+END
+htmlhelp.button.forward.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.forward.xml
+END
+symbol.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/symbol.font.family.xml
+END
+shade.verbatim.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/shade.verbatim.style.xml
+END
+table.frame.border.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.frame.border.style.xml
+END
+page.margin.bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.margin.bottom.xml
+END
+body.font.master.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/body.font.master.xml
+END
+current.docid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/current.docid.xml
+END
+htmlhelp.button.jump2.title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump2.title.xml
+END
+target.database.document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/target.database.document.xml
+END
+arbortext.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/arbortext.extensions.xml
+END
+section.title.level3.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level3.properties.xml
+END
+suppress.header.navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/suppress.header.navigation.xml
+END
+table.cell.border.thickness.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.cell.border.thickness.xml
+END
+refentry.pagebreak.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.pagebreak.xml
+END
+olink.pubid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.pubid.xml
+END
+nominal.image.depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/nominal.image.depth.xml
+END
+link.mailto.url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/link.mailto.url.xml
+END
+htmlhelp.button.jump2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump2.xml
+END
+htmlhelp.hhp.windows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhp.windows.xml
+END
+chunker.output.standalone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.standalone.xml
+END
+generate.section.toc.level.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.section.toc.level.xml
+END
+make.year.ranges.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/make.year.ranges.xml
+END
+html.cleanup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.cleanup.xml
+END
+htmlhelp.hhp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhp.xml
+END
+l10n.gentext.default.language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/l10n.gentext.default.language.xml
+END
+chunk.sections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.sections.xml
+END
+section.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.properties.xml
+END
+ebnf.statement.terminator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ebnf.statement.terminator.xml
+END
+ulink.show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ulink.show.xml
+END
+column.count.titlepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.titlepage.xml
+END
+profile.attribute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.attribute.xml
+END
+entry.propagates.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/entry.propagates.style.xml
+END
+html.extra.head.links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.extra.head.links.xml
+END
+tex.math.file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/tex.math.file.xml
+END
+qanda.defaultlabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.defaultlabel.xml
+END
+formal.title.placement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/formal.title.placement.xml
+END
+section.title.level2.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level2.properties.xml
+END
+table.frame.border.color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.frame.border.color.xml
+END
+pixels.per.inch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/pixels.per.inch.xml
+END
+variablelist.as.table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/variablelist.as.table.xml
+END
+graphic.default.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/graphic.default.extension.xml
+END
+template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/template.xml
+END
+body.margin.bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/body.margin.bottom.xml
+END
+chunker.output.method.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.method.xml
+END
+variablelist.max.termlength.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/variablelist.max.termlength.xml
+END
+formal.object.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/formal.object.properties.xml
+END
+column.gap.titlepage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.titlepage.xml
+END
+saxon.character.representation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/saxon.character.representation.xml
+END
+author.othername.in.middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/author.othername.in.middle.xml
+END
+callout.unicode.number.limit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.unicode.number.limit.xml
+END
+qanda.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.properties.xml
+END
+citerefentry.link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/citerefentry.link.xml
+END
+callout.graphics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.graphics.xml
+END
+section.title.level1.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level1.properties.xml
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/manifest.xml
+END
+htmlhelp.enhanced.decompilation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.enhanced.decompilation.xml
+END
+admonition.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admonition.title.properties.xml
+END
+biblioentry.item.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/biblioentry.item.separator.xml
+END
+equation.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/equation.properties.xml
+END
+profile.lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.lang.xml
+END
+column.count.lot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.lot.xml
+END
+procedure.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/procedure.properties.xml
+END
+htmlhelp.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.autolabel.xml
+END
+htmlhelp.hhc.section.depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.section.depth.xml
+END
+hyphenate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/hyphenate.xml
+END
+para.propagates.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/para.propagates.style.xml
+END
+example.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/example.properties.xml
+END
+xref.with.number.and.title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xref.with.number.and.title.xml
+END
+formal.procedures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/formal.procedures.xml
+END
+toc.section.depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/toc.section.depth.xml
+END
+default.float.class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/default.float.class.xml
+END
+chunk.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.toc.xml
+END
+line-height.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/line-height.xml
+END
+points.per.em.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/points.per.em.xml
+END
+table.footnote.number.symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.footnote.number.symbols.xml
+END
+article.appendix.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/article.appendix.title.properties.xml
+END
+profile.security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.security.xml
+END
+make.single.year.ranges.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/make.single.year.ranges.xml
+END
+bibliography.numbered.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/bibliography.numbered.xml
+END
+appendix.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/appendix.autolabel.xml
+END
+htmlhelp.force.map.and.alias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.force.map.and.alias.xml
+END
+suppress.footer.navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/suppress.footer.navigation.xml
+END
+compact.list.item.spacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/compact.list.item.spacing.xml
+END
+olink.doctitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.doctitle.xml
+END
+htmlhelp.button.print.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.print.xml
+END
+body.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/body.font.family.xml
+END
+default.image.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/default.image.width.xml
+END
+column.count.back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.back.xml
+END
+textinsert.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/textinsert.extension.xml
+END
+chunker.output.omit-xml-declaration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.omit-xml-declaration.xml
+END
+chunker.output.doctype-system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.doctype-system.xml
+END
+monospace.verbatim.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/monospace.verbatim.properties.xml
+END
+funcsynopsis.tabular.threshold.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/funcsynopsis.tabular.threshold.xml
+END
+admon.graphics.path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admon.graphics.path.xml
+END
+targets.filename.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/targets.filename.xml
+END
+runinhead.title.end.punct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/runinhead.title.end.punct.xml
+END
+use.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.extensions.xml
+END
+header.content.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/header.content.properties.xml
+END
+use.local.olink.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.local.olink.style.xml
+END
+variablelist.as.blocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/variablelist.as.blocks.xml
+END
+xref.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xref.properties.xml
+END
+eclipse.plugin.name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/eclipse.plugin.name.xml
+END
+funcsynopsis.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/funcsynopsis.style.xml
+END
+tablecolumns.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/tablecolumns.extension.xml
+END
+show.comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/show.comments.xml
+END
+htmlhelp.enumerate.images.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.enumerate.images.xml
+END
+profile.userlevel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.userlevel.xml
+END
+section.label.includes.component.label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.label.includes.component.label.xml
+END
+subscript.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/subscript.properties.xml
+END
+footnote.number.symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footnote.number.symbols.xml
+END
+preface.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/preface.autolabel.xml
+END
+olink.resolver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.resolver.xml
+END
+htmlhelp.default.topic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.default.topic.xml
+END
+chunk.section.depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.section.depth.xml
+END
+monospace.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/monospace.properties.xml
+END
+generate.meta.abstract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.meta.abstract.xml
+END
+draft.mode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/draft.mode.xml
+END
+default.table.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/default.table.width.xml
+END
+sans.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/sans.font.family.xml
+END
+use.embed.for.svg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.embed.for.svg.xml
+END
+region.before.extent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/region.before.extent.xml
+END
+list.item.spacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/list.item.spacing.xml
+END
+table.entry.padding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.entry.padding.xml
+END
+html.stylesheet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.stylesheet.xml
+END
+admon.graphics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admon.graphics.xml
+END
+profile.revision.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.revision.xml
+END
+informal.object.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/informal.object.properties.xml
+END
+show.revisionflag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/show.revisionflag.xml
+END
+body.margin.top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/body.margin.top.xml
+END
+footnote.number.format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footnote.number.format.xml
+END
+profile.value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.value.xml
+END
+generate.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.toc.xml
+END
+column.count.body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.body.xml
+END
+ebnf.assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ebnf.assignment.xml
+END
+table.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.properties.xml
+END
+htmlhelp.remember.window.position.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.remember.window.position.xml
+END
+html.cellspacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.cellspacing.xml
+END
+formal.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/formal.title.properties.xml
+END
+htmlhelp.only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.only.xml
+END
+qandadiv.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qandadiv.autolabel.xml
+END
+process.source.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/process.source.toc.xml
+END
+html.longdesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.longdesc.xml
+END
+htmlhelp.button.jump1.title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump1.title.xml
+END
+bibliography.collection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/bibliography.collection.xml
+END
+olink.fragid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.fragid.xml
+END
+inherit.keywords.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/inherit.keywords.xml
+END
+punct.honorific.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/punct.honorific.xml
+END
+section.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.autolabel.xml
+END
+toc.max.depth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/toc.max.depth.xml
+END
+htmlhelp.button.home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.home.xml
+END
+make.valid.html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/make.valid.html.xml
+END
+saxon.tablecolumns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/saxon.tablecolumns.xml
+END
+section.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.properties.xml
+END
+toc.list.type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/toc.list.type.xml
+END
+htmlhelp.chm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.chm.xml
+END
+htmlhelp.alias.file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.alias.file.xml
+END
+htmlhelp.button.jump2.url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump2.url.xml
+END
+list.block.spacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/list.block.spacing.xml
+END
+page.margin.top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.margin.top.xml
+END
+column.count.index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.index.xml
+END
+shade.verbatim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/shade.verbatim.xml
+END
+profile.vendor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.vendor.xml
+END
+navig.graphics.path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/navig.graphics.path.xml
+END
+htmlhelp.hhc.binary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.binary.xml
+END
+root.filename.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/root.filename.xml
+END
+page.margin.inner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.margin.inner.xml
+END
+footer.content.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footer.content.properties.xml
+END
+qanda.inherit.numeration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.inherit.numeration.xml
+END
+linenumbering.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/linenumbering.width.xml
+END
+alignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/alignment.xml
+END
+root.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/root.properties.xml
+END
+ignore.image.scaling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ignore.image.scaling.xml
+END
+chunker.output.encoding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.encoding.xml
+END
+htmlhelp.button.refresh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.refresh.xml
+END
+chunk.first.sections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.first.sections.xml
+END
+header.column.widths.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/header.column.widths.xml
+END
+title.margin.left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/title.margin.left.xml
+END
+paper.type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/paper.type.xml
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ChangeLog
+END
+region.after.extent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/region.after.extent.xml
+END
+section.level6.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level6.properties.xml
+END
+annotate.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/annotate.toc.xml
+END
+xref.title-page.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xref.title-page.separator.xml
+END
+htmlhelp.show.menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.show.menu.xml
+END
+ulink.footnotes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ulink.footnotes.xml
+END
+manifest.in.base.dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/manifest.in.base.dir.xml
+END
+chunk.quietly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.quietly.xml
+END
+html.ext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.ext.xml
+END
+htmlhelp.button.next.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.next.xml
+END
+htmlhelp.show.advanced.search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.show.advanced.search.xml
+END
+eclipse.plugin.provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/eclipse.plugin.provider.xml
+END
+htmlhelp.button.stop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.stop.xml
+END
+use.id.function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.id.function.xml
+END
+profile.arch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.arch.xml
+END
+saxon.callouts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/saxon.callouts.xml
+END
+part.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/part.autolabel.xml
+END
+css.decoration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/css.decoration.xml
+END
+htmlhelp.button.home.url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.home.url.xml
+END
+callout.unicode.start.character.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.unicode.start.character.xml
+END
+page.height.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.height.xml
+END
+profile.condition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.condition.xml
+END
+callout.unicode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.unicode.xml
+END
+olink.outline.ext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.outline.ext.xml
+END
+section.level5.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level5.properties.xml
+END
+index.preferred.page.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/index.preferred.page.properties.xml
+END
+xep.index.item.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xep.index.item.properties.xml
+END
+qanda.title.level6.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level6.properties.xml
+END
+htmlhelp.button.locate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.locate.xml
+END
+chapter.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chapter.autolabel.xml
+END
+glossentry.show.acronym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossentry.show.acronym.xml
+END
+profile.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.separator.xml
+END
+column.gap.lot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.lot.xml
+END
+column.gap.back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.back.xml
+END
+tex.math.delims.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/tex.math.delims.xml
+END
+verbatim.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/verbatim.properties.xml
+END
+insert.xref.page.number.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/insert.xref.page.number.xml
+END
+table.cell.padding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.cell.padding.xml
+END
+tex.math.in.alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/tex.math.in.alt.xml
+END
+ebnf.table.border.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ebnf.table.border.xml
+END
+superscript.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/superscript.properties.xml
+END
+profile.os.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.os.xml
+END
+admon.textlabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admon.textlabel.xml
+END
+fop.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/fop.extensions.xml
+END
+htmlhelp.display.progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.display.progress.xml
+END
+ebnf.table.bgcolor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ebnf.table.bgcolor.xml
+END
+funcsynopsis.decoration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/funcsynopsis.decoration.xml
+END
+section.level4.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level4.properties.xml
+END
+qanda.title.level5.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level5.properties.xml
+END
+firstterm.only.link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/firstterm.only.link.xml
+END
+htmlhelp.hhc.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.width.xml
+END
+callout.graphics.path.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.graphics.path.xml
+END
+normal.para.spacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/normal.para.spacing.xml
+END
+generate.manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.manifest.xml
+END
+generate.index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.index.xml
+END
+double.sided.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/double.sided.xml
+END
+callout.list.table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.list.table.xml
+END
+navig.graphics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/navig.graphics.xml
+END
+sidebar.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/sidebar.properties.xml
+END
+refentry.generate.name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.generate.name.xml
+END
+make.graphic.viewport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/make.graphic.viewport.xml
+END
+ulink.target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ulink.target.xml
+END
+table.table.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.table.properties.xml
+END
+refentry.title.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.title.properties.xml
+END
+headers.on.blank.pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/headers.on.blank.pages.xml
+END
+column.count.front.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.count.front.xml
+END
+refentry.xref.manvolnum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.xref.manvolnum.xml
+END
+htmlhelp.hhp.tail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhp.tail.xml
+END
+saxon.linenumbering.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/saxon.linenumbering.xml
+END
+label.from.part.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/label.from.part.xml
+END
+page.height.portrait.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.height.portrait.xml
+END
+use.role.for.mediaobject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.role.for.mediaobject.xml
+END
+section.level3.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level3.properties.xml
+END
+qanda.title.level4.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level4.properties.xml
+END
+use.svg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.svg.xml
+END
+html.longdesc.link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.longdesc.link.xml
+END
+process.empty.source.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/process.empty.source.toc.xml
+END
+segmentedlist.as.table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/segmentedlist.as.table.xml
+END
+column.gap.body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.body.xml
+END
+chunk.tocs.and.lots.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunk.tocs.and.lots.xml
+END
+olink.sysid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/olink.sysid.xml
+END
+bridgehead.in.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/bridgehead.in.toc.xml
+END
+column.gap.index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/column.gap.index.xml
+END
+html.stylesheet.type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.stylesheet.type.xml
+END
+htmlhelp.hhc.show.root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.show.root.xml
+END
+htmlhelp.show.toolbar.text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.show.toolbar.text.xml
+END
+footers.on.blank.pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footers.on.blank.pages.xml
+END
+glossterm.auto.link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossterm.auto.link.xml
+END
+phrase.propagates.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/phrase.propagates.style.xml
+END
+base.dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/base.dir.xml
+END
+section.level2.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level2.properties.xml
+END
+qanda.title.level3.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level3.properties.xml
+END
+profile.conformance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.conformance.xml
+END
+xep.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xep.extensions.xml
+END
+autotoc.label.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/autotoc.label.separator.xml
+END
+admon.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admon.style.xml
+END
+dingbat.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/dingbat.font.family.xml
+END
+linenumbering.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/linenumbering.separator.xml
+END
+collect.xref.targets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/collect.xref.targets.xml
+END
+linenumbering.everyNth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/linenumbering.everyNth.xml
+END
+manual.toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/manual.toc.xml
+END
+blockquote.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/blockquote.properties.xml
+END
+callout.defaultcolumn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.defaultcolumn.xml
+END
+footer.rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footer.rule.xml
+END
+page.orientation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.orientation.xml
+END
+htmlhelp.map.file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.map.file.xml
+END
+navig.showtitles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/navig.showtitles.xml
+END
+use.id.as.filename.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.id.as.filename.xml
+END
+draft.watermark.image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/draft.watermark.image.xml
+END
+runinhead.default.title.end.punct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/runinhead.default.title.end.punct.xml
+END
+htmlhelp.hhc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.xml
+END
+menuchoice.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/menuchoice.separator.xml
+END
+chunker.output.doctype-public.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.doctype-public.xml
+END
+menuchoice.menu.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/menuchoice.menu.separator.xml
+END
+htmlhelp.button.jump1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.jump1.xml
+END
+glossterm.separation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossterm.separation.xml
+END
+preferred.mediaobject.role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/preferred.mediaobject.role.xml
+END
+page.margin.outer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.margin.outer.xml
+END
+htmlhelp.hhk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhk.xml
+END
+section.level1.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.level1.properties.xml
+END
+profile.revisionflag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/profile.revisionflag.xml
+END
+qanda.title.level2.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level2.properties.xml
+END
+marker.section.level.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/marker.section.level.xml
+END
+page.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.width.xml
+END
+footer.column.widths.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footer.column.widths.xml
+END
+eclipse.autolabel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/eclipse.autolabel.xml
+END
+nominal.image.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/nominal.image.width.xml
+END
+ulink.footnote.number.format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ulink.footnote.number.format.xml
+END
+glossterm.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossterm.width.xml
+END
+refentry.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.separator.xml
+END
+header.rule.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/header.rule.xml
+END
+htmlhelp.button.prev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.prev.xml
+END
+callout.graphics.number.limit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.graphics.number.limit.xml
+END
+ulink.hyphenate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/ulink.hyphenate.xml
+END
+l10n.gentext.use.xref.language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/l10n.gentext.use.xref.language.xml
+END
+linenumbering.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/linenumbering.extension.xml
+END
+l10n.gentext.language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/l10n.gentext.language.xml
+END
+monospace.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/monospace.font.family.xml
+END
+body.font.size.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/body.font.size.xml
+END
+section.title.level6.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level6.properties.xml
+END
+emphasis.propagates.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/emphasis.propagates.style.xml
+END
+eclipse.plugin.id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/eclipse.plugin.id.xml
+END
+function.parens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/function.parens.xml
+END
+callout.graphics.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callout.graphics.extension.xml
+END
+table.cell.border.style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.cell.border.style.xml
+END
+htmlhelp.button.options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.options.xml
+END
+make.index.markup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/make.index.markup.xml
+END
+use.role.as.xrefstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/use.role.as.xrefstyle.xml
+END
+chunker.output.cdata-section-elements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.cdata-section-elements.xml
+END
+default.units.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/default.units.xml
+END
+htmlhelp.button.back.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.button.back.xml
+END
+qanda.title.level1.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/qanda.title.level1.properties.xml
+END
+spacing.paras.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/spacing.paras.xml
+END
+xref.label-page.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xref.label-page.separator.xml
+END
+page.width.portrait.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/page.width.portrait.xml
+END
+glossary.collection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/glossary.collection.xml
+END
+rootid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/rootid.xml
+END
+xref.label-title.separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/xref.label-title.separator.xml
+END
+nominal.table.width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/nominal.table.width.xml
+END
+callouts.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/callouts.extension.xml
+END
+table.footnote.number.format.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/table.footnote.number.format.xml
+END
+htmlhelp.show.favorities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.show.favorities.xml
+END
+title.font.family.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/title.font.family.xml
+END
+refentry.generate.title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/refentry.generate.title.xml
+END
+admon.graphics.extension.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/admon.graphics.extension.xml
+END
+generate.id.attributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.id.attributes.xml
+END
+section.title.level5.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/section.title.level5.properties.xml
+END
+generate.legalnotice.link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/generate.legalnotice.link.xml
+END
+footnote.font.size.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/footnote.font.size.xml
+END
+axf.extensions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/axf.extensions.xml
+END
+htmlhelp.hhc.folders.instead.books.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/htmlhelp.hhc.folders.instead.books.xml
+END
+html.base.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/html.base.xml
+END
+chunker.output.indent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/params/chunker.output.indent.xml
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/268/trunk/feedparser/tests/illformed/namespace
+END
+atomsvg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/264/trunk/feedparser/tests/illformed/namespace/atomsvg.xml
+END
+rss2.0NSwithModulesNoDefNSLocalNameClash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss2.0NSwithModulesNoDefNSLocalNameClash.xml
+END
+atomsvgtitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/251/trunk/feedparser/tests/illformed/namespace/atomsvgtitle.xml
+END
+undeclared_namespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/171/trunk/feedparser/tests/illformed/namespace/undeclared_namespace.xml
+END
+rss1.0withModulesNoDefNS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss1.0withModulesNoDefNS.xml
+END
+rss2.0mathml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/191/trunk/feedparser/tests/illformed/namespace/rss2.0mathml.xml
+END
+rss2.0NSwithModulesNoDefNS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss2.0NSwithModulesNoDefNS.xml
+END
+rss2.0xlink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/218/trunk/feedparser/tests/illformed/namespace/rss2.0xlink.xml
+END
+rss2.0noNSwithModulesLocalNameClash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss2.0noNSwithModulesLocalNameClash.xml
+END
+atommathml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/220/trunk/feedparser/tests/illformed/namespace/atommathml.xml
+END
+atomxlink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/220/trunk/feedparser/tests/illformed/namespace/atomxlink.xml
+END
+rss2.0svg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/217/trunk/feedparser/tests/illformed/namespace/rss2.0svg.xml
+END
+rss2.0svgtitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/217/trunk/feedparser/tests/illformed/namespace/rss2.0svgtitle.xml
+END
+rss2.0noNSwithModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss2.0noNSwithModules.xml
+END
+rss1.0withModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss1.0withModules.xml
+END
+rss2.0NSwithModules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss2.0NSwithModules.xml
+END
+rss1.0withModulesNoDefNSLocalNameClash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/namespace/rss1.0withModulesNoDefNSLocalNameClash.xml
+END
+atomsvgdesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/268/trunk/feedparser/tests/illformed/namespace/atomsvgdesc.xml
+END

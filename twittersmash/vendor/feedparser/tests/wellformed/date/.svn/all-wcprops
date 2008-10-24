@@ -1,0 +1,677 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/feedparser/tests/wellformed/date
+END
+channel_dcterms_created.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_created.xml
+END
+feed_modified_disney_pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_disney_pt.xml
+END
+channel_pubDate_korean_nate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/channel_pubDate_korean_nate.xml
+END
+entry_modified_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_modified_w3dtf_utc.xml
+END
+channel_dcterms_modified_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_modified_map_date.xml
+END
+channel_pubDate_w3dtf_rollover_25h.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_25h.xml
+END
+channel_dcterms_issued_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_issued_w3dtf_utc.xml
+END
+entry_updated_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/126/trunk/feedparser/tests/wellformed/date/entry_updated_w3dtf_utc.xml
+END
+feed_modified_rfc822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_rfc822.xml
+END
+cdf_item_lastmod_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_item_lastmod_map_modified.xml
+END
+channel_pubDate_w3dtf_rollover_61m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_61m.xml
+END
+feed_updated_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/126/trunk/feedparser/tests/wellformed/date/feed_updated_w3dtf_utc.xml
+END
+channel_pubDate_rfc2822_rollover_june_31.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_rfc2822_rollover_june_31.xml
+END
+channel_dc_date_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dc_date_w3dtf_utc.xml
+END
+item_expirationDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_expirationDate.xml
+END
+channel_pubDate_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_utc.xml
+END
+channel_pubDate_iso8601_ymd_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_iso8601_ymd_2.xml
+END
+channel_pubDate_w3dtf_rollover_61s.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_61s.xml
+END
+item_dcterms_modified_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_modified_w3dtf_utc.xml
+END
+channel_dcterms_created_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_created_w3dtf_utc.xml
+END
+feed_modified_disney_at.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_disney_at.xml
+END
+cdf_channel_lastmod_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_channel_lastmod_map_modified.xml
+END
+channel_dcterms_modified_w3dtf_utc_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_modified_w3dtf_utc_map_date.xml
+END
+item_pubDate_euc-kr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/47/trunk/feedparser/tests/wellformed/date/item_pubDate_euc-kr.xml
+END
+channel_pubDate_greek_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/86/trunk/feedparser/tests/wellformed/date/channel_pubDate_greek_1.xml
+END
+entry_source_updated_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/127/trunk/feedparser/tests/wellformed/date/entry_source_updated_w3dtf_utc.xml
+END
+channel_pubDate_iso8601_ym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_iso8601_ym.xml
+END
+channel_dcterms_modified_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_modified_w3dtf_utc.xml
+END
+channel_pubDate_disney_ct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_disney_ct.xml
+END
+entry_issued.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_issued.xml
+END
+feed_modified_disney_mt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_disney_mt.xml
+END
+feed_modified_iso8601_ym_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_iso8601_ym_2.xml
+END
+feed_modified_iso8601_yo_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_iso8601_yo_2.xml
+END
+channel_pubDate_notime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/147/trunk/feedparser/tests/wellformed/date/channel_pubDate_notime.xml
+END
+channel_pubDate_w3dtf_ym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_ym.xml
+END
+item_dcterms_issued.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_issued.xml
+END
+channel_pubDate_mssql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/channel_pubDate_mssql.xml
+END
+channel_pubDate_w3dtf_ymd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_ymd.xml
+END
+item_pubDate_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_pubDate_map_modified.xml
+END
+feed_modified_iso8601_ym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_iso8601_ym.xml
+END
+entry_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_modified.xml
+END
+feed_modified_w3dtf_sf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_sf.xml
+END
+cdf_channel_lastmod_map_modified_parsed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_channel_lastmod_map_modified_parsed.xml
+END
+item_pubDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_pubDate.xml
+END
+feed_modified_w3dtf_y.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_y.xml
+END
+channel_pubDate_w3dtf_rollover_nonleapyear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_nonleapyear.xml
+END
+channel_dcterms_issued.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_issued.xml
+END
+item_dcterms_created.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_created.xml
+END
+item_dcterms_modified_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_modified_map_date.xml
+END
+channel_pubDate_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_map_modified.xml
+END
+feed_modified_rfc2822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_rfc2822.xml
+END
+channel_dc_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dc_date.xml
+END
+channel_pubDate_w3dtf_y.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_y.xml
+END
+channel_pubDate_w3dtf_rollover_leapyear400.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_leapyear400.xml
+END
+channel_pubDate_mssql_nofraction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/155/trunk/feedparser/tests/wellformed/date/channel_pubDate_mssql_nofraction.xml
+END
+item_dcterms_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_modified.xml
+END
+feed_updated_frac_secs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/212/trunk/feedparser/tests/wellformed/date/feed_updated_frac_secs.xml
+END
+entry_published_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/126/trunk/feedparser/tests/wellformed/date/entry_published_w3dtf_utc.xml
+END
+item_dc_date_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dc_date_w3dtf_utc.xml
+END
+channel_pubDate_rfc2822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_rfc2822.xml
+END
+feed_modified_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_utc.xml
+END
+feed_modified_iso8601_ymd_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_iso8601_ymd_2.xml
+END
+item_pubDate_perforce.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/feedparser/tests/wellformed/date/item_pubDate_perforce.xml
+END
+channel_pubDate_disney.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_disney.xml
+END
+channel_dc_date_w3dtf_utc_map_modified_parsed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dc_date_w3dtf_utc_map_modified_parsed.xml
+END
+channel_pubDate_hungarian_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/feedparser/tests/wellformed/date/channel_pubDate_hungarian_1.xml
+END
+item_dcterms_created_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_created_w3dtf_utc.xml
+END
+channel_dcterms_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dcterms_modified.xml
+END
+channel_pubDate_disney_pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_disney_pt.xml
+END
+item_dcterms_modified_w3dtf_utc_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_modified_w3dtf_utc_map_date.xml
+END
+channel_pubDate_iso8601_ym_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_iso8601_ym_2.xml
+END
+feed_modified_w3dtf_rollover_nonleapyear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_rollover_nonleapyear.xml
+END
+channel_pubDate_iso8601_yo_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_iso8601_yo_2.xml
+END
+item_dc_date_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dc_date_map_modified.xml
+END
+feed_modified_google.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/240/trunk/feedparser/tests/wellformed/date/feed_modified_google.xml
+END
+feed_modified_disney_ct.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_disney_ct.xml
+END
+feed_modified_w3dtf_rollover_leapyear400.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_rollover_leapyear400.xml
+END
+feed_modified_w3dtf_ymd_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_ymd_2.xml
+END
+channel_pubDate_nosecond.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/147/trunk/feedparser/tests/wellformed/date/channel_pubDate_nosecond.xml
+END
+feed_modified_iso8601_ymd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_iso8601_ymd.xml
+END
+item_expirationDate_rfc2822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_expirationDate_rfc2822.xml
+END
+channel_dc_date_map_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_dc_date_map_modified.xml
+END
+feed_modified_asctime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_asctime.xml
+END
+channel_pubDate_w3dtf_sf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_sf.xml
+END
+channel_pubDate_disney_at.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_disney_at.xml
+END
+channel_pubDate_w3dtf_ymd_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_ymd_2.xml
+END
+channel_pubDate_iso8601_ymd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_iso8601_ymd.xml
+END
+feed_modified_disney.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_disney.xml
+END
+feed_modified_w3dtf_rollover_leapyear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_rollover_leapyear.xml
+END
+channel_pubDate_asctime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_asctime.xml
+END
+feed_modified_rfc2822_rollover_june_31.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_rfc2822_rollover_june_31.xml
+END
+feed_modified_w3dtf_ymd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_ymd.xml
+END
+cdf_item_lastmod_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_item_lastmod_map_date.xml
+END
+channel_pubDate_disney_mt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_disney_mt.xml
+END
+cdf_item_lastmod_map_modified_parsed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_item_lastmod_map_modified_parsed.xml
+END
+entry_created.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_created.xml
+END
+channel_pubDate_w3dtf_rollover_leapyear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_rollover_leapyear.xml
+END
+entry_modified_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_modified_map_date.xml
+END
+feed_modified_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_map_date.xml
+END
+entry_issued_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_issued_w3dtf_utc.xml
+END
+feed_modified_w3dtf_tokyo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_tokyo.xml
+END
+item_dc_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dc_date.xml
+END
+cdf_channel_lastmod_map_date.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/cdf_channel_lastmod_map_date.xml
+END
+channel_pubDate_rfc822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_rfc822.xml
+END
+feed_modified.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified.xml
+END
+channel_pubDate_w3dtf_tokyo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate_w3dtf_tokyo.xml
+END
+item_pubDate_rfc2822.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_pubDate_rfc2822.xml
+END
+entry_created_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/entry_created_w3dtf_utc.xml
+END
+channel_pubDate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/channel_pubDate.xml
+END
+item_dcterms_issued_w3dtf_utc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dcterms_issued_w3dtf_utc.xml
+END
+item_dc_date_w3dtf_utc_map_modified_parsed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/date/item_dc_date_w3dtf_utc_map_modified_parsed.xml
+END
+feed_modified_w3dtf_ym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/80/trunk/feedparser/tests/wellformed/date/feed_modified_w3dtf_ym.xml
+END

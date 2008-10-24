@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/289/trunk/feedparser/tests/wellformed/http
+END
+headers_no_etag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/288/trunk/feedparser/tests/wellformed/http/headers_no_etag.xml
+END
+headers_etag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/289/trunk/feedparser/tests/wellformed/http/headers_etag.xml
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/http/.htaccess
+END
+headers_foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/http/headers_foo.xml
+END

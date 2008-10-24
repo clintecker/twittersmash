@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/feedparser/tests/illformed/itunes
+END
+itunes_channel_owner_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_owner_email.xml
+END
+itunes_channel_keywords_duplicate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_keywords_duplicate.xml
+END
+itunes_channel_category_scheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_category_scheme.xml
+END
+itunes_channel_block_false.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block_false.xml
+END
+itunes_enclosure_url_maps_id_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_enclosure_url_maps_id_2.xml
+END
+itunes_channel_block_whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block_whitespace.xml
+END
+itunes_channel_keywords.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_keywords.xml
+END
+itunes_item_author_map_author.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_author_map_author.xml
+END
+itunes_item_explicit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit.xml
+END
+itunes_namespace_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_namespace_uppercase.xml
+END
+itunes_item_duration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/feedparser/tests/illformed/itunes/itunes_item_duration.xml
+END
+itunes_item_block_no.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block_no.xml
+END
+itunes_channel_category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_category.xml
+END
+itunes_channel_explicit_no.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit_no.xml
+END
+itunes_channel_category_nested.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_category_nested.xml
+END
+itunes_item_block_true.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block_true.xml
+END
+itunes_item_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block.xml
+END
+itunes_channel_explicit_true.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit_true.xml
+END
+itunes_item_explicit_false.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit_false.xml
+END
+itunes_channel_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_image.xml
+END
+itunes_enclosure_url_maps_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_enclosure_url_maps_id.xml
+END
+itunes_item_category_scheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_category_scheme.xml
+END
+itunes_channel_explicit_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit_uppercase.xml
+END
+itunes_item_block_false.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block_false.xml
+END
+itunes_channel_owner_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_owner_name.xml
+END
+itunes_channel_subtitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_subtitle.xml
+END
+itunes_item_block_whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block_whitespace.xml
+END
+itunes_channel_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_summary.xml
+END
+itunes_channel_explicit_whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit_whitespace.xml
+END
+itunes_channel_link_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_link_image.xml
+END
+itunes_channel_block_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block_uppercase.xml
+END
+itunes_item_category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_category.xml
+END
+itunes_item_explicit_no.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit_no.xml
+END
+itunes_namespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_namespace.xml
+END
+itunes_item_category_nested.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_category_nested.xml
+END
+itunes_item_explicit_true.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit_true.xml
+END
+itunes_item_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_image.xml
+END
+itunes_namespace_lowercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_namespace_lowercase.xml
+END
+itunes_item_explicit_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit_uppercase.xml
+END
+itunes_namespace_example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_namespace_example.xml
+END
+itunes_core_element_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_core_element_uppercase.xml
+END
+itunes_channel_explicit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit.xml
+END
+itunes_item_subtitle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_subtitle.xml
+END
+itunes_channel_keywords_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_keywords_multiple.xml
+END
+itunes_channel_keywords_duplicate_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_keywords_duplicate_2.xml
+END
+itunes_item_explicit_whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_explicit_whitespace.xml
+END
+itunes_item_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_summary.xml
+END
+itunes_item_link_image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_link_image.xml
+END
+itunes_channel_block_no.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block_no.xml
+END
+itunes_item_block_uppercase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_item_block_uppercase.xml
+END
+itunes_channel_block_true.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block_true.xml
+END
+itunes_channel_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_block.xml
+END
+itunes_channel_explicit_false.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/133/trunk/feedparser/tests/illformed/itunes/itunes_channel_explicit_false.xml
+END

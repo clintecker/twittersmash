@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf
+END
+item_abstract_map_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/item_abstract_map_description.xml
+END
+channel_href_map_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/channel_href_map_link.xml
+END
+channel_href_map_links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/channel_href_map_links.xml
+END
+channel_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/channel_title.xml
+END
+channel_abstract_map_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/channel_abstract_map_description.xml
+END
+channel_abstract_map_tagline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/channel_abstract_map_tagline.xml
+END
+item_abstract_map_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/item_abstract_map_summary.xml
+END
+item_href_map_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/item_href_map_link.xml
+END
+item_href_map_links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/item_href_map_links.xml
+END
+item_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/cdf/item_title.xml
+END

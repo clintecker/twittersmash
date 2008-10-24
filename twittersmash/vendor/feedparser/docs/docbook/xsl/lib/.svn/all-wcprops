@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/lib
+END
+lib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/lib/lib.xml
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/lib/ChangeLog
+END
+lib.xweb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/lib/lib.xweb
+END
+lib.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/feedparser/docs/docbook/xsl/lib/lib.xsl
+END

@@ -1,0 +1,935 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/204/trunk/feedparser/tests/illformed/encoding
+END
+x80_855.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_855.xml
+END
+x80_cskoi8r.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cskoi8r.xml
+END
+x80_windows-1253.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1253.xml
+END
+x80_857.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_857.xml
+END
+x80_windows-1255.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1255.xml
+END
+x80_windows-1257.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1257.xml
+END
+x80_cp850.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp850.xml
+END
+x80_ebcdic_cp_be.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_be.xml
+END
+x80_ebcdic-cp-ch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-ch.xml
+END
+x80_cp852.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp852.xml
+END
+x80_ibm037.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ibm037.xml
+END
+x80_ebcdic_cp_us.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_us.xml
+END
+x80_ibm039.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ibm039.xml
+END
+utf-16le.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16le.xml
+END
+x80_cp775.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp775.xml
+END
+x80_ibm437.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm437.xml
+END
+x80_cp856.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp856.xml
+END
+x80_cspc8codepage437.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cspc8codepage437.xml
+END
+x80_mac-cyrillic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_mac-cyrillic.xml
+END
+x80_860.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_860.xml
+END
+x80_862.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_862.xml
+END
+x80_866.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_866.xml
+END
+x80_ebcdic_cp_nl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_nl.xml
+END
+x80_macintosh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_macintosh.xml
+END
+x80_tcvn5712-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_tcvn5712-1.xml
+END
+x80_maccentraleurope.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_maccentraleurope.xml
+END
+x80_cp861.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp861.xml
+END
+x80_windows_1251.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1251.xml
+END
+x80_cp863.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp863.xml
+END
+x80_windows_1253.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1253.xml
+END
+x80_ebcdic_cp_ch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_ch.xml
+END
+x80_cp865.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp865.xml
+END
+x80_windows_1255.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1255.xml
+END
+http_text_plain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/feedparser/tests/illformed/encoding/http_text_plain.xml
+END
+x80_windows_1257.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1257.xml
+END
+demoronize-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/186/trunk/feedparser/tests/illformed/encoding/demoronize-1.xml
+END
+demoronize-3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/197/trunk/feedparser/tests/illformed/encoding/demoronize-3.xml
+END
+utf-16le-bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16le-bom.xml
+END
+x80_maciceland.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_maciceland.xml
+END
+x80_ms-cyrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-cyrl.xml
+END
+x80_cp037.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_cp037.xml
+END
+x80_cp437.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp437.xml
+END
+x80_cp874.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp874.xml
+END
+x80_tcvn-5712.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_tcvn-5712.xml
+END
+x80_ms-ee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-ee.xml
+END
+x80_ms-ansi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-ansi.xml
+END
+x80_ibm855.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm855.xml
+END
+x80_cp1251.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1251.xml
+END
+x80_ibm857.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm857.xml
+END
+x80_koi8-u.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_koi8-u.xml
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/encoding/.htaccess
+END
+x80_cp1253.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1253.xml
+END
+x80_cp1255.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1255.xml
+END
+utf-8-bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-8-bom.xml
+END
+x80_cp1257.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1257.xml
+END
+x80_maccyrillic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_maccyrillic.xml
+END
+x80_csibm861.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm861.xml
+END
+x80_ibm500.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ibm500.xml
+END
+x80_macroman.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_macroman.xml
+END
+x80_csibm863.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm863.xml
+END
+x80_csibm865.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm865.xml
+END
+x80_ibm860.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm860.xml
+END
+x80_ibm862.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm862.xml
+END
+x80_ibm864.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm864.xml
+END
+x80_ibm866.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm866.xml
+END
+x80_850.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_850.xml
+END
+x80_852.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_852.xml
+END
+x80_windows-1250.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1250.xml
+END
+x80_windows-1252.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1252.xml
+END
+x80_ms-arab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-arab.xml
+END
+x80_windows-1254.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1254.xml
+END
+x80_windows-1256.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1256.xml
+END
+x80_csibm037.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_csibm037.xml
+END
+x80_windows-1258.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1258.xml
+END
+utf-32be.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32be.xml
+END
+x80_ebcdic-cp-ca.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-ca.xml
+END
+x80_ms-hebr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-hebr.xml
+END
+x80_cp737.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp737.xml
+END
+x80_cp855.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp855.xml
+END
+x80_cp857.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp857.xml
+END
+x80_maclatin2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_maclatin2.xml
+END
+x80_ms-greek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-greek.xml
+END
+x80_dbcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_dbcs.xml
+END
+double-encoded-html.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/186/trunk/feedparser/tests/illformed/encoding/double-encoded-html.xml
+END
+x80_cspc850multilingual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cspc850multilingual.xml
+END
+x80_861.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_861.xml
+END
+x80_863.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_863.xml
+END
+x80_865.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_865.xml
+END
+x80_viscii.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_viscii.xml
+END
+utf-32be-autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32be-autodetect.xml
+END
+x80_cp500.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_cp500.xml
+END
+utf-16be-autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16be-autodetect.xml
+END
+x80_ebcdic_cp_ca.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_ca.xml
+END
+x80_cp860.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp860.xml
+END
+x80_windows_1250.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1250.xml
+END
+x80_ebcdic-cp-wt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-wt.xml
+END
+utf-32le-autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32le-autodetect.xml
+END
+x80_cp862.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp862.xml
+END
+x80_ms-turk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_ms-turk.xml
+END
+utf-16le-autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16le-autodetect.xml
+END
+x80_windows_1252.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1252.xml
+END
+utf-32be-bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32be-bom.xml
+END
+x80_cp864.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp864.xml
+END
+x80_windows_1254.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1254.xml
+END
+x80_cp866.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp866.xml
+END
+x80_windows_1256.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1256.xml
+END
+x80_windows_1258.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_windows_1258.xml
+END
+x80_macturkish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_macturkish.xml
+END
+x80_cp1125.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1125.xml
+END
+demoronize-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/186/trunk/feedparser/tests/illformed/encoding/demoronize-2.xml
+END
+x80_437.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_437.xml
+END
+utf-16be.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16be.xml
+END
+x80_csibm855.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm855.xml
+END
+x80_mac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_mac.xml
+END
+x80_csibm857.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm857.xml
+END
+utf-32le.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32le.xml
+END
+x80_ibm850.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm850.xml
+END
+x80_ebcdic_cp_wt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic_cp_wt.xml
+END
+x80_cp875.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_cp875.xml
+END
+x80_ibm852.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm852.xml
+END
+x80_cspcp852.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cspcp852.xml
+END
+x80_koi8-r.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_koi8-r.xml
+END
+x80_tcvn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_tcvn.xml
+END
+x80_cp1250.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1250.xml
+END
+x80_ibm775.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm775.xml
+END
+x80_koi8-t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_koi8-t.xml
+END
+x80_csmacintosh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_csmacintosh.xml
+END
+x80_cp1252.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1252.xml
+END
+x80_ibm1140.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ibm1140.xml
+END
+x80_cp1254.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1254.xml
+END
+http_i18n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/encoding/http_i18n.xml
+END
+x80_cp1256.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1256.xml
+END
+x80_csibm500.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_csibm500.xml
+END
+x80_cp1258.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_cp1258.xml
+END
+bogus_encoding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/41/trunk/feedparser/tests/illformed/encoding/bogus_encoding.xml
+END
+linenoise.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/204/trunk/feedparser/tests/illformed/encoding/linenoise.xml
+END
+x80_csibm860.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm860.xml
+END
+encoding_mismatch_crash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/171/trunk/feedparser/tests/illformed/encoding/encoding_mismatch_crash.xml
+END
+x80_ebcdic-cp-be.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-be.xml
+END
+x80_cp_is.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cp_is.xml
+END
+x80_ebcdic-cp-us.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-us.xml
+END
+x80_csibm864.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm864.xml
+END
+x80_csibm866.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_csibm866.xml
+END
+utf-16be-bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-16be-bom.xml
+END
+x80_ibm861.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm861.xml
+END
+x80_ibm863.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm863.xml
+END
+x80_winbaltrim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_winbaltrim.xml
+END
+x80_ibm865.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_ibm865.xml
+END
+x80_cspc775baltic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cspc775baltic.xml
+END
+x80_cspc862latinhebrew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_cspc862latinhebrew.xml
+END
+utf-32le-bom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/57/trunk/feedparser/tests/illformed/encoding/utf-32le-bom.xml
+END
+x80_macgreek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/feedparser/tests/illformed/encoding/x80_macgreek.xml
+END
+x80_windows-1251.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/51/trunk/feedparser/tests/illformed/encoding/x80_windows-1251.xml
+END
+x80_ebcdic-cp-nl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/trunk/feedparser/tests/illformed/encoding/x80_ebcdic-cp-nl.xml
+END
+http_text_plain_charset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/84/trunk/feedparser/tests/illformed/encoding/http_text_plain_charset.xml
+END

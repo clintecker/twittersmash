@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125/trunk/feedparser/tests/wellformed/rdf
+END
+rdf_channel_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_channel_link.xml
+END
+rss_version_10_not_default_ns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/125/trunk/feedparser/tests/wellformed/rdf/rss_version_10_not_default_ns.xml
+END
+rdf_channel_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_channel_title.xml
+END
+rdf_channel_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_channel_description.xml
+END
+rdf_item_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_item_link.xml
+END
+doctype_contains_entity_decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/doctype_contains_entity_decl.xml
+END
+rss090_channel_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rss090_channel_title.xml
+END
+rdf_item_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_item_title.xml
+END
+rdf_item_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_item_description.xml
+END
+rss_version_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rss_version_10.xml
+END
+rdf_item_rdf_about.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rdf_item_rdf_about.xml
+END
+rss090_item_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/feedparser/tests/wellformed/rdf/rss090_item_title.xml
+END

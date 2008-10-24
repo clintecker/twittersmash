@@ -1,0 +1,47 @@
+8
+
+dir
+291
+http://feedparser.googlecode.com/svn/trunk/feedparser/tests
+http://feedparser.googlecode.com/svn
+
+
+
+2008-03-14T04:56:33.183852Z
+290
+pilgrim
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+73d2b349-402e-0410-baf4-070fd12ab5b7
+
+wellformed
+dir
+
+.htaccess
+file
+
+
+
+
+2008-10-24T01:53:06.000000Z
+ecb3b7be76782489c1d42686d7ea1e8f
+2004-07-29T13:30:56.000000Z
+113
+f8dy
+has-props
+
+illformed
+dir
+

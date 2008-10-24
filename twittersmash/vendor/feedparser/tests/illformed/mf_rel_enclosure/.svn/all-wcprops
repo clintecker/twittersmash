@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure
+END
+rel_enclosure_href_autodetect_by_ext_hqx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_hqx.xml
+END
+rel_enclosure_href_autodetect_by_ext_zip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_zip.xml
+END
+rel_enclosure_href_autodetect_by_ext_tgz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_tgz.xml
+END
+rel_enclosure_href_autodetect_by_ext_wmv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_wmv.xml
+END
+rel_enclosure_href_autodetect_by_ext_z.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_z.xml
+END
+rel_enclosure_href_autodetect_by_ext_avi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_avi.xml
+END
+rel_enclosure_href_autodetect_by_ext_gz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_gz.xml
+END
+rel_enclosure_href_autodetect_by_ext_exe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_exe.xml
+END
+rel_enclosure_href_autodetect_by_ext_tbz2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_tbz2.xml
+END
+rel_enclosure_href_autodetect_by_ext_m4a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_m4a.xml
+END
+rel_enclosure_href_autodetect_by_type_audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_type_audio.xml
+END
+rel_enclosure_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_type.xml
+END
+rel_enclosure_href.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href.xml
+END
+rel_enclosure_title_overrides_link_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_title_overrides_link_text.xml
+END
+rel_enclosure_title_from_link_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_title_from_link_text.xml
+END
+rel_enclosure_href_autodetect_by_type_video.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_type_video.xml
+END
+rel_enclosure_href_autodetect_by_ext_deb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_deb.xml
+END
+rel_enclosure_href_autodetect_by_ext_bz2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_bz2.xml
+END
+rel_enclosure_href_autodetect_by_ext_mp2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_mp2.xml
+END
+rel_enclosure_href_autodetect_by_ext_rpm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_rpm.xml
+END
+rel_enclosure_href_autodetect_by_ext_mp3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_mp3.xml
+END
+rel_enclosure_href_autodetect_by_ext_mp4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_mp4.xml
+END
+rel_enclosure_href_autodetect_by_ext_m4v.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_m4v.xml
+END
+rel_enclosure_href_autodetect_by_ext_dmg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_dmg.xml
+END
+rel_enclosure_href_autodetect_by_ext_bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_bin.xml
+END
+rel_enclosure_href_autodetect_by_ext_img.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_img.xml
+END
+rel_enclosure_href_autodetect_by_ext_jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_jar.xml
+END
+rel_enclosure_href_autodetect_by_ext_ogg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_ogg.xml
+END
+rel_enclosure_no_autodetect_xml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_no_autodetect_xml.xml
+END
+rel_enclosure_href_autodetect_by_type_application_ogg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_type_application_ogg.xml
+END
+rel_enclosure_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_title.xml
+END
+rel_enclosure_href_autodetect_by_ext_wma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_wma.xml
+END
+rel_enclosure_href_autodetect_by_ext_rar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_rar.xml
+END
+rel_enclosure_href_autodetect_by_ext_tar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_tar.xml
+END
+rel_enclosure_href_autodetect_by_ext_sitx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_sitx.xml
+END
+rel_enclosure_href_autodetect_by_ext_msi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_msi.xml
+END
+rel_enclosure_href_autodetect_by_ext_iso.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_iso.xml
+END
+rel_enclosure_no_autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_no_autodetect.xml
+END
+rel_enclosure_href_autodetect_by_ext_sit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/193/trunk/feedparser/tests/illformed/mf_rel_enclosure/rel_enclosure_href_autodetect_by_ext_sit.xml
+END

@@ -1,0 +1,4415 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/266/trunk/feedparser/tests/illformed/sanitize
+END
+acceptable_element_progress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_progress.xml
+END
+acceptable_element_datalist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_datalist.xml
+END
+feed_tagline_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_script_cdata.xml
+END
+feed_title_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onabort.xml
+END
+feed_subtitle_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_frame.xml
+END
+feed_info_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onmouseup.xml
+END
+feed_info_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onkeyup.xml
+END
+acceptable_element_datagrid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_datagrid.xml
+END
+item_body_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_script.xml
+END
+item_fullitem_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onchange.xml
+END
+entry_title_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onunload.xml
+END
+item_xhtml_body_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onresize.xml
+END
+feed_copyright_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onmouseup.xml
+END
+item_xhtml_body_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_blink.xml
+END
+acceptable_attribute_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_title.xml
+END
+acceptable_attribute_suppress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_suppress.xml
+END
+entry_title_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onmouseup.xml
+END
+acceptable_element_strike.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_strike.xml
+END
+feed_title_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onkeyup.xml
+END
+feed_copyright_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_script.xml
+END
+item_fullitem_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onsubmit.xml
+END
+acceptable_attribute_bottompadding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bottompadding.xml
+END
+item_body_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onerror.xml
+END
+acceptable_attribute_leftspacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_leftspacing.xml
+END
+feed_copyright_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onmousedown.xml
+END
+style_padding_right_0in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_right_0in.xml
+END
+item_body_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onkeypress.xml
+END
+acceptable_attribute_autofocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_autofocus.xml
+END
+item_fullitem_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onclick.xml
+END
+style_color_blue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_blue.xml
+END
+item_body_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_embed.xml
+END
+item_fullitem_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onmouseup.xml
+END
+entry_title_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_crazy.xml
+END
+acceptable_attribute_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_default.xml
+END
+feed_copyright_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onkeypress.xml
+END
+acceptable_attribute_rowspan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rowspan.xml
+END
+feed_info_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onclick.xml
+END
+acceptable_attribute_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_frame.xml
+END
+acceptable_attribute_multiple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_multiple.xml
+END
+entry_title_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_script_cdata.xml
+END
+acceptable_attribute_span.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_span.xml
+END
+feed_tagline_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onabort.xml
+END
+acceptable_element_label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_label.xml
+END
+entry_summary_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_script_cdata.xml
+END
+feed_subtitle_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_style.xml
+END
+item_body_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_iframe.xml
+END
+entry_content_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onerror.xml
+END
+item_body_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_object.xml
+END
+feed_title_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onclick.xml
+END
+item_body_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onload.xml
+END
+acceptable_attribute_cite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_cite.xml
+END
+entry_summary_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_embed.xml
+END
+entry_summary_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onfocus.xml
+END
+style_font_family_arial_sans_serif.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_family_arial_sans_serif.xml
+END
+item_content_encoded_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onchange.xml
+END
+item_body_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onchange.xml
+END
+acceptable_element_audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_audio.xml
+END
+feed_copyright_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_iframe.xml
+END
+item_content_encoded_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onerror.xml
+END
+feed_tagline_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onkeyup.xml
+END
+feed_copyright_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_object.xml
+END
+style_position_absolute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_position_absolute.xml
+END
+item_description_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onblur.xml
+END
+acceptable_element_video.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_video.xml
+END
+feed_subtitle_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_applet.xml
+END
+item_xhtml_body_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onmousedown.xml
+END
+acceptable_element_h1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h1.xml
+END
+acceptable_element_option.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_option.xml
+END
+feed_title_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_script_inline.xml
+END
+feed_copyright_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onload.xml
+END
+entry_content_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_embed.xml
+END
+item_content_encoded_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onsubmit.xml
+END
+item_body_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onsubmit.xml
+END
+item_fullitem_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_embed.xml
+END
+item_xhtml_body_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onerror.xml
+END
+style_cursor_pointer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_cursor_pointer.xml
+END
+feed_copyright_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onchange.xml
+END
+feed_subtitle_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_blink.xml
+END
+acceptable_attribute_height.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_height.xml
+END
+acceptable_attribute_readonly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_readonly.xml
+END
+feed_copyright_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_frame.xml
+END
+entry_title_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onerror.xml
+END
+entry_content_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onresize.xml
+END
+entry_summary_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onkeydown.xml
+END
+entry_summary_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onmousedown.xml
+END
+feed_copyright_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onsubmit.xml
+END
+acceptable_element_kbd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_kbd.xml
+END
+acceptable_element_samp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_samp.xml
+END
+entry_content_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_script_inline.xml
+END
+feed_tagline_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_crazy.xml
+END
+acceptable_attribute_rev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rev.xml
+END
+feed_tagline_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_link.xml
+END
+acceptable_element_sup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_sup.xml
+END
+style_font_size_10pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_size_10pt.xml
+END
+item_content_encoded_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_script_cdata.xml
+END
+acceptable_attribute_abbr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_abbr.xml
+END
+item_fullitem_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onmouseout.xml
+END
+item_content_encoded_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_script.xml
+END
+item_fullitem_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onunload.xml
+END
+acceptable_attribute_scope.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_scope.xml
+END
+entry_content_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_applet.xml
+END
+acceptable_attribute_bordercolor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bordercolor.xml
+END
+entry_summary_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_script.xml
+END
+feed_tagline_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onclick.xml
+END
+feed_title_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_applet.xml
+END
+feed_tagline_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_applet.xml
+END
+acceptable_attribute_accept-charset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_accept-charset.xml
+END
+item_xhtml_body_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onmouseout.xml
+END
+item_fullitem_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onfocus.xml
+END
+acceptable_element_div.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_div.xml
+END
+feed_info_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_script_cdata.xml
+END
+acceptable_element_tr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_tr.xml
+END
+entry_summary_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_ondblclick.xml
+END
+acceptable_attribute_bordercolordark.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bordercolordark.xml
+END
+style_margin_bottom_0pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_bottom_0pt.xml
+END
+acceptable_element_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_header.xml
+END
+entry_content_style_tag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/266/trunk/feedparser/tests/illformed/sanitize/entry_content_style_tag.xml
+END
+acceptable_attribute_valign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_valign.xml
+END
+feed_info_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onfocus.xml
+END
+feed_info_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_embed.xml
+END
+acceptable_attribute_balance.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_balance.xml
+END
+feed_copyright_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/feed_copyright_style.xml
+END
+feed_title_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_crazy.xml
+END
+acceptable_element_em.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_em.xml
+END
+entry_title_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_link.xml
+END
+feed_copyright_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onabort.xml
+END
+acceptable_attribute_align.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_align.xml
+END
+acceptable_attribute_accept.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_accept.xml
+END
+item_body_script_map_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_script_map_content.xml
+END
+style_border_left_0pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_left_0pt.xml
+END
+entry_summary_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_link.xml
+END
+item_content_encoded_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_iframe.xml
+END
+entry_title_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onmouseout.xml
+END
+item_content_encoded_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_object.xml
+END
+feed_title_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onfocus.xml
+END
+entry_summary_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_iframe.xml
+END
+item_xhtml_body_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_link.xml
+END
+entry_summary_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_object.xml
+END
+item_content_encoded_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onload.xml
+END
+feed_copyright_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onkeyup.xml
+END
+feed_title_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onchange.xml
+END
+acceptable_attribute_method.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_method.xml
+END
+acceptable_attribute_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_type.xml
+END
+acceptable_element_tfoot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_tfoot.xml
+END
+item_content_encoded_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onunload.xml
+END
+acceptable_element_footer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_footer.xml
+END
+entry_summary_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onload.xml
+END
+feed_copyright_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_blink.xml
+END
+item_body_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onunload.xml
+END
+feed_info_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onmousedown.xml
+END
+feed_info_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onkeydown.xml
+END
+entry_content_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_ondblclick.xml
+END
+style_height_100px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_height_100px.xml
+END
+item_fullitem_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onkeypress.xml
+END
+acceptable_attribute_hidden.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_hidden.xml
+END
+feed_title_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onsubmit.xml
+END
+acceptable_element_area.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_area.xml
+END
+style_margin_top_0in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_top_0in.xml
+END
+acceptable_element_h2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h2.xml
+END
+item_description_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onabort.xml
+END
+acceptable_attribute_loopend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_loopend.xml
+END
+feed_copyright_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onkeydown.xml
+END
+style_margin_5px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_5px.xml
+END
+feed_copyright_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onunload.xml
+END
+item_body_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onblur.xml
+END
+acceptable_element_tbody.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_tbody.xml
+END
+item_description_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_embed.xml
+END
+acceptable_attribute_charoff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_charoff.xml
+END
+entry_title_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onkeydown.xml
+END
+item_content_encoded_map_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_map_content.xml
+END
+feed_subtitle_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_script_inline.xml
+END
+feed_info_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_script.xml
+END
+item_description_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onmouseover.xml
+END
+style_padding_2ex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_2ex.xml
+END
+item_content_encoded_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_embed.xml
+END
+item_xhtml_body_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onkeypress.xml
+END
+item_description_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onkeyup.xml
+END
+feed_copyright_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onblur.xml
+END
+entry_title_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_frame.xml
+END
+style_height_2px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_height_2px.xml
+END
+feed_title_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_link.xml
+END
+acceptable_attribute_ping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_ping.xml
+END
+entry_summary_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onerror.xml
+END
+style_color_008.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_008.xml
+END
+item_body_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_link.xml
+END
+acceptable_element_optgroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_optgroup.xml
+END
+item_fullitem_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onkeydown.xml
+END
+feed_subtitle_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onresize.xml
+END
+feed_copyright_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onclick.xml
+END
+feed_subtitle_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onabort.xml
+END
+feed_tagline_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onfocus.xml
+END
+feed_info_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_ondblclick.xml
+END
+item_fullitem_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_applet.xml
+END
+feed_copyright_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_link.xml
+END
+style_border_none_important.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_none_important.xml
+END
+style_letter_spacing_1px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/190/trunk/feedparser/tests/illformed/sanitize/style_letter_spacing_1px.xml
+END
+style_margin_99999em.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_99999em.xml
+END
+feed_tagline_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_meta.xml
+END
+acceptable_element_del.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_del.xml
+END
+entry_title_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onkeypress.xml
+END
+acceptable_element_acronym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_acronym.xml
+END
+item_description_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_ondblclick.xml
+END
+acceptable_element_hr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_hr.xml
+END
+feed_subtitle_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onmouseup.xml
+END
+feed_subtitle_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onkeyup.xml
+END
+acceptable_element_command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_command.xml
+END
+feed_info_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_link.xml
+END
+item_xhtml_body_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_applet.xml
+END
+acceptable_attribute_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_data.xml
+END
+feed_info_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_iframe.xml
+END
+acceptable_attribute_replace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_replace.xml
+END
+item_description_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onclick.xml
+END
+feed_tagline_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onmousedown.xml
+END
+acceptable_element_table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_table.xml
+END
+feed_info_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_object.xml
+END
+style_line_height_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_line_height_normal.xml
+END
+acceptable_attribute_vspace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_vspace.xml
+END
+style_color_maroon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_maroon.xml
+END
+feed_info_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onload.xml
+END
+item_body_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onreset.xml
+END
+style_text_align_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_text_align_right.xml
+END
+acceptable_element_p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_p.xml
+END
+acceptable_attribute_hreflang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_hreflang.xml
+END
+style_color_rgb_0_128_0_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_rgb_0_128_0_.xml
+END
+acceptable_element_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_form.xml
+END
+feed_tagline_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_frame.xml
+END
+acceptable_attribute_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rules.xml
+END
+style_margin_0px_important.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_0px_important.xml
+END
+entry_title_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/entry_title_style.xml
+END
+acceptable_attribute_id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_id.xml
+END
+style_margin_top_10px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_top_10px.xml
+END
+style_background_yellow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_background_yellow.xml
+END
+item_fullitem_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onmousedown.xml
+END
+style_mso_spacerun_yes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_spacerun_yes.xml
+END
+item_xhtml_body_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onmouseup.xml
+END
+entry_summary_script_map_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_script_map_description.xml
+END
+item_description_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onchange.xml
+END
+feed_title_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onunload.xml
+END
+item_fullitem_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onerror.xml
+END
+item_content_encoded_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onmousedown.xml
+END
+acceptable_attribute_prompt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_prompt.xml
+END
+feed_tagline_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onchange.xml
+END
+entry_title_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_meta.xml
+END
+acceptable_element_input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_input.xml
+END
+acceptable_element_br.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_br.xml
+END
+feed_subtitle_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onclick.xml
+END
+acceptable_element_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_menu.xml
+END
+item_description_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onsubmit.xml
+END
+entry_title_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_blink.xml
+END
+entry_summary_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_meta.xml
+END
+feed_info_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onerror.xml
+END
+feed_tagline_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onsubmit.xml
+END
+acceptable_element_h3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h3.xml
+END
+feed_title_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_ondblclick.xml
+END
+acceptable_element_meter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_meter.xml
+END
+acceptable_attribute_hspace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_hspace.xml
+END
+acceptable_element_textarea.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_textarea.xml
+END
+entry_content_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onreset.xml
+END
+item_content_encoded_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onblur.xml
+END
+item_xhtml_body_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_meta.xml
+END
+acceptable_element_keygen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_keygen.xml
+END
+entry_summary_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onblur.xml
+END
+acceptable_element_sub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_sub.xml
+END
+item_content_encoded_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onreset.xml
+END
+style_font_size_0_9em.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_size_0_9em.xml
+END
+feed_title_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onerror.xml
+END
+acceptable_element_output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_output.xml
+END
+feed_title_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_frame.xml
+END
+entry_title_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onresize.xml
+END
+item_description_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_script_cdata.xml
+END
+item_xhtml_body_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_embed.xml
+END
+acceptable_element_small.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_small.xml
+END
+feed_tagline_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/feed_tagline_style.xml
+END
+item_xhtml_body_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onreset.xml
+END
+entry_title_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_script.xml
+END
+feed_copyright_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onfocus.xml
+END
+style_font_style_italic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_style_italic.xml
+END
+acceptable_attribute_cellpadding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_cellpadding.xml
+END
+style_mso_tab_count_3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_tab_count_3.xml
+END
+entry_title_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onreset.xml
+END
+item_xhtml_body_script_map_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_script_map_content.xml
+END
+acceptable_attribute_width.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_width.xml
+END
+feed_title_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onmouseover.xml
+END
+acceptable_attribute_media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_media.xml
+END
+feed_title_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_meta.xml
+END
+feed_copyright_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_script_cdata.xml
+END
+feed_title_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onmouseup.xml
+END
+entry_summary_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onchange.xml
+END
+item_body_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_meta.xml
+END
+style_margin_right_0px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_right_0px.xml
+END
+acceptable_element_td.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_td.xml
+END
+acceptable_attribute_delay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_delay.xml
+END
+feed_tagline_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_blink.xml
+END
+style_border_3px_solid_ccc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_3px_solid_ccc.xml
+END
+acceptable_element_a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_a.xml
+END
+item_description_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onfocus.xml
+END
+entry_summary_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onsubmit.xml
+END
+feed_copyright_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_meta.xml
+END
+acceptable_element_tt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_tt.xml
+END
+style_color_teal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_teal.xml
+END
+acceptable_element_i.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_i.xml
+END
+entry_summary_script_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_script_base64.xml
+END
+item_description_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onmouseup.xml
+END
+acceptable_attribute_variable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_variable.xml
+END
+style_font_family_symbol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_family_symbol.xml
+END
+acceptable_element_q.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_q.xml
+END
+feed_tagline_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onerror.xml
+END
+acceptable_attribute_compact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_compact.xml
+END
+acceptable_element_section.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_section.xml
+END
+acceptable_attribute_datetime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_datetime.xml
+END
+acceptable_attribute_start.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_start.xml
+END
+item_content_encoded_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onmouseup.xml
+END
+feed_info_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_meta.xml
+END
+feed_title_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/feed_title_style.xml
+END
+entry_title_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_iframe.xml
+END
+entry_summary_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_crazy.xml
+END
+acceptable_element_code.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_code.xml
+END
+acceptable_attribute_autocomplete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_autocomplete.xml
+END
+entry_title_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_object.xml
+END
+feed_copyright_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onmouseover.xml
+END
+feed_subtitle_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_script_cdata.xml
+END
+entry_title_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onload.xml
+END
+feed_info_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onblur.xml
+END
+style_mso_no_proof_yes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_no_proof_yes.xml
+END
+item_description_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onunload.xml
+END
+style_border_collapse_collapse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/190/trunk/feedparser/tests/illformed/sanitize/style_border_collapse_collapse.xml
+END
+entry_content_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_crazy.xml
+END
+acceptable_element_multicol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_multicol.xml
+END
+feed_tagline_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onunload.xml
+END
+item_description_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_applet.xml
+END
+item_fullitem_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_crazy.xml
+END
+feed_subtitle_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_embed.xml
+END
+acceptable_element_time.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_time.xml
+END
+feed_subtitle_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onfocus.xml
+END
+acceptable_element_legend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_legend.xml
+END
+style_border_medium_none_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_medium_none_.xml
+END
+entry_summary_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onmouseout.xml
+END
+style_border_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_0.xml
+END
+acceptable_attribute_loopstart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_loopstart.xml
+END
+style_background_url.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/style_background_url.xml
+END
+acceptable_attribute_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_summary.xml
+END
+feed_title_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_blink.xml
+END
+entry_title_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_script_inline.xml
+END
+acceptable_element_h4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h4.xml
+END
+style_margin_bottom_10px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_bottom_10px.xml
+END
+entry_title_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onmousedown.xml
+END
+style_padding_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_0.xml
+END
+style_padding_0_0_12px_12px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_0_0_12px_12px.xml
+END
+acceptable_attribute_loopcount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_loopcount.xml
+END
+feed_subtitle_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onmousedown.xml
+END
+feed_subtitle_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onkeydown.xml
+END
+acceptable_attribute_clear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_clear.xml
+END
+item_fullitem_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onresize.xml
+END
+feed_info_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onchange.xml
+END
+acceptable_attribute_autoplay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_autoplay.xml
+END
+item_body_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onmouseup.xml
+END
+item_content_encoded_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_link.xml
+END
+acceptable_element_canvas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_canvas.xml
+END
+item_xhtml_body_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onmouseover.xml
+END
+entry_content_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onmouseout.xml
+END
+style_width_300px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_width_300px.xml
+END
+acceptable_attribute_axis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_axis.xml
+END
+acceptable_attribute_unselectable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_unselectable.xml
+END
+feed_info_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onsubmit.xml
+END
+acceptable_attribute_lowsrc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_lowsrc.xml
+END
+acceptable_attribute_headers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_headers.xml
+END
+feed_subtitle_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_script.xml
+END
+acceptable_attribute_high.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_high.xml
+END
+acceptable_element_ins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_ins.xml
+END
+acceptable_attribute_rightspacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rightspacing.xml
+END
+item_body_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onmousedown.xml
+END
+entry_summary_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onunload.xml
+END
+entry_summary_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onreset.xml
+END
+entry_summary_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onmouseover.xml
+END
+style_font_family__comic_sans_ms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/190/trunk/feedparser/tests/illformed/sanitize/style_font_family__comic_sans_ms.xml
+END
+acceptable_element_blockquote.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_blockquote.xml
+END
+item_xhtml_body_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onkeydown.xml
+END
+feed_info_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_crazy.xml
+END
+feed_tagline_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_script_inline.xml
+END
+item_xhtml_body_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onchange.xml
+END
+item_content_encoded_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_ondblclick.xml
+END
+acceptable_element_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_b.xml
+END
+acceptable_element_figure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_figure.xml
+END
+acceptable_attribute_size.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_size.xml
+END
+entry_summary_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onkeypress.xml
+END
+style_mso_highlight_yellow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_highlight_yellow.xml
+END
+acceptable_element_thead.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_thead.xml
+END
+feed_copyright_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onerror.xml
+END
+acceptable_element_aside.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_aside.xml
+END
+feed_subtitle_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_ondblclick.xml
+END
+acceptable_attribute_char.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_char.xml
+END
+acceptable_attribute_pattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_pattern.xml
+END
+entry_content_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onmouseup.xml
+END
+acceptable_element_colgroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_colgroup.xml
+END
+item_xhtml_body_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onsubmit.xml
+END
+acceptable_element_caption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_caption.xml
+END
+feed_info_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onmouseout.xml
+END
+acceptable_attribute_selected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_selected.xml
+END
+entry_content_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_script.xml
+END
+style_border_solid_2px_000000.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_solid_2px_000000.xml
+END
+acceptable_element_font.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_font.xml
+END
+style_float_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_float_right.xml
+END
+item_content_encoded_script_map_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_script_map_content.xml
+END
+acceptable_attribute_face.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_face.xml
+END
+style_vertical_align_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_vertical_align_top.xml
+END
+style_border_1px_solid_rgb_0_0_0_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_1px_solid_rgb_0_0_0_.xml
+END
+item_content_encoded_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onresize.xml
+END
+feed_copyright_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_embed.xml
+END
+feed_title_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_script.xml
+END
+entry_content_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onmousedown.xml
+END
+style_color_red.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_red.xml
+END
+acceptable_attribute_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_form.xml
+END
+item_body_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onresize.xml
+END
+feed_tagline_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_script.xml
+END
+feed_subtitle_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_link.xml
+END
+acceptable_element_ul.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_ul.xml
+END
+item_description_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onmouseout.xml
+END
+acceptable_element_article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_article.xml
+END
+acceptable_attribute_wrap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_wrap.xml
+END
+style_font_size_smaller.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_size_smaller.xml
+END
+acceptable_attribute_accesskey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_accesskey.xml
+END
+feed_subtitle_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_iframe.xml
+END
+feed_subtitle_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_object.xml
+END
+acceptable_attribute_required.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_required.xml
+END
+item_description_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onerror.xml
+END
+feed_copyright_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onresize.xml
+END
+item_description_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_crazy.xml
+END
+feed_subtitle_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onload.xml
+END
+acceptable_attribute_cellspacing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_cellspacing.xml
+END
+style_overflow_auto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_overflow_auto.xml
+END
+entry_content_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onkeypress.xml
+END
+feed_copyright_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_script_inline.xml
+END
+acceptable_attribute_charset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_charset.xml
+END
+item_body_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_applet.xml
+END
+feed_tagline_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onmouseup.xml
+END
+item_content_encoded_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_crazy.xml
+END
+entry_title_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onblur.xml
+END
+acceptable_attribute_colspan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_colspan.xml
+END
+item_body_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_frame.xml
+END
+acceptable_attribute_datafld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_datafld.xml
+END
+acceptable_attribute_shape.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_shape.xml
+END
+acceptable_element_h5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h5.xml
+END
+feed_tagline_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_ondblclick.xml
+END
+style_mso_list_l0_level1_lfo1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_list_l0_level1_lfo1.xml
+END
+item_fullitem_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onreset.xml
+END
+feed_copyright_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_applet.xml
+END
+feed_title_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onkeydown.xml
+END
+acceptable_attribute_border.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_border.xml
+END
+acceptable_attribute_dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_dir.xml
+END
+style_mso_bidi_font_weight_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_bidi_font_weight_normal.xml
+END
+style_border_right_0pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_right_0pt.xml
+END
+feed_info_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onreset.xml
+END
+feed_info_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onunload.xml
+END
+entry_content_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_iframe.xml
+END
+acceptable_attribute_icon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_icon.xml
+END
+feed_info_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onmouseover.xml
+END
+entry_content_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_object.xml
+END
+feed_subtitle_onerror.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onerror.xml
+END
+feed_title_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_script_cdata.xml
+END
+style_border_bottom_dotted.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/190/trunk/feedparser/tests/illformed/sanitize/style_border_bottom_dotted.xml
+END
+acceptable_element_ol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_ol.xml
+END
+entry_content_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onload.xml
+END
+feed_title_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_iframe.xml
+END
+entry_summary_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_frame.xml
+END
+style_font_size_10px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_size_10px.xml
+END
+style_border_bottom_dashed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/190/trunk/feedparser/tests/illformed/sanitize/style_border_bottom_dashed.xml
+END
+feed_tagline_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_iframe.xml
+END
+style_font_family_lucida_console_.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_family_lucida_console_.xml
+END
+feed_title_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_object.xml
+END
+acceptable_element_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_center.xml
+END
+feed_tagline_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_object.xml
+END
+entry_content_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onchange.xml
+END
+item_description_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onkeydown.xml
+END
+feed_title_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onload.xml
+END
+feed_info_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onkeypress.xml
+END
+feed_title_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onmouseout.xml
+END
+acceptable_attribute_radiogroup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_radiogroup.xml
+END
+feed_tagline_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onload.xml
+END
+feed_title_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onreset.xml
+END
+entry_content_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_frame.xml
+END
+acceptable_attribute_label.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_label.xml
+END
+item_content_encoded_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onkeydown.xml
+END
+item_fullitem_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_frame.xml
+END
+acceptable_attribute_href.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_href.xml
+END
+acceptable_element_fieldset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_fieldset.xml
+END
+entry_content_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onsubmit.xml
+END
+item_content_encoded_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_meta.xml
+END
+item_description_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onkeypress.xml
+END
+item_xhtml_body_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onunload.xml
+END
+acceptable_attribute_repeat-min.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_repeat-min.xml
+END
+acceptable_element_col.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_col.xml
+END
+acceptable_attribute_repeat-max.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_repeat-max.xml
+END
+acceptable_attribute_bordercolorlight.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bordercolorlight.xml
+END
+acceptable_element_dir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dir.xml
+END
+item_body_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/item_body_style.xml
+END
+item_body_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onabort.xml
+END
+item_body_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_ondblclick.xml
+END
+acceptable_attribute_value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_value.xml
+END
+acceptable_attribute_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_color.xml
+END
+item_fullitem_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_link.xml
+END
+acceptable_element_s.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_s.xml
+END
+feed_copyright_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_ondblclick.xml
+END
+acceptable_attribute_keytype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_keytype.xml
+END
+feed_title_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onresize.xml
+END
+acceptable_element_dfn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dfn.xml
+END
+entry_content_script_base64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_script_base64.xml
+END
+item_fullitem_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_script.xml
+END
+item_body_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onkeyup.xml
+END
+style_background_repeat_repeat_x.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_background_repeat_repeat_x.xml
+END
+acceptable_attribute_datapagesize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_datapagesize.xml
+END
+acceptable_attribute_low.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_low.xml
+END
+item_body_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_blink.xml
+END
+acceptable_attribute_contenteditable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_contenteditable.xml
+END
+acceptable_attribute_class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_class.xml
+END
+entry_title_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_embed.xml
+END
+entry_summary_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/entry_summary_style.xml
+END
+style_text_indent_0_5in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_text_indent_0_5in.xml
+END
+acceptable_attribute_hidefocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_hidefocus.xml
+END
+acceptable_attribute_step.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_step.xml
+END
+acceptable_element_pre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_pre.xml
+END
+style_padding_99999em.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_99999em.xml
+END
+feed_tagline_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onreset.xml
+END
+feed_tagline_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onmouseover.xml
+END
+item_body_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onkeydown.xml
+END
+entry_content_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/entry_content_style.xml
+END
+item_xhtml_body_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_script.xml
+END
+item_content_encoded_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_applet.xml
+END
+item_fullitem_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/item_fullitem_style.xml
+END
+entry_content_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onabort.xml
+END
+style_color_999999.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_999999.xml
+END
+entry_summary_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_applet.xml
+END
+feed_subtitle_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_meta.xml
+END
+style_mso_ansi_language_nl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_ansi_language_nl.xml
+END
+feed_title_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onkeypress.xml
+END
+acceptable_attribute_cols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_cols.xml
+END
+acceptable_attribute_point-size.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_point-size.xml
+END
+style_text_align_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_text_align_left.xml
+END
+feed_info_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_frame.xml
+END
+acceptable_element_h6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_h6.xml
+END
+acceptable_attribute_urn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_urn.xml
+END
+item_content_encoded_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onabort.xml
+END
+entry_summary_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_blink.xml
+END
+acceptable_attribute_draggable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_draggable.xml
+END
+item_description_script_map_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_script_map_summary.xml
+END
+feed_subtitle_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onblur.xml
+END
+item_fullitem_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onmouseover.xml
+END
+entry_content_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onkeyup.xml
+END
+acceptable_attribute_vrml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_vrml.xml
+END
+item_content_encoded_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onmouseover.xml
+END
+entry_content_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_blink.xml
+END
+acceptable_element_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dialog.xml
+END
+item_xhtml_body_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onabort.xml
+END
+style_margin_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_0.xml
+END
+item_body_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onclick.xml
+END
+acceptable_attribute_pqg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_pqg.xml
+END
+item_description_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_link.xml
+END
+style_text_align_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_text_align_center.xml
+END
+item_fullitem_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_blink.xml
+END
+acceptable_attribute_rows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rows.xml
+END
+item_fullitem_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_iframe.xml
+END
+item_content_encoded_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onkeyup.xml
+END
+acceptable_attribute_tabindex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_tabindex.xml
+END
+item_fullitem_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_object.xml
+END
+entry_title_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onabort.xml
+END
+style_margin_0_15px_0_0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_0_15px_0_0.xml
+END
+acceptable_element_button.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_button.xml
+END
+entry_content_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onkeydown.xml
+END
+feed_tagline_script_map_description.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_script_map_description.xml
+END
+entry_content_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onunload.xml
+END
+item_fullitem_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onload.xml
+END
+style_white_space_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_white_space_top.xml
+END
+acceptable_attribute_volume.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_volume.xml
+END
+style_float_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_float_left.xml
+END
+style_white_space_nowrap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_white_space_nowrap.xml
+END
+item_xhtml_body_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onkeyup.xml
+END
+feed_tagline_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_embed.xml
+END
+acceptable_attribute_action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_action.xml
+END
+acceptable_attribute_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_background.xml
+END
+acceptable_attribute_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_alt.xml
+END
+item_xhtml_body_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_iframe.xml
+END
+item_description_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_frame.xml
+END
+acceptable_attribute_choff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_choff.xml
+END
+entry_content_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onblur.xml
+END
+entry_title_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onkeyup.xml
+END
+acceptable_attribute_checked.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_checked.xml
+END
+item_xhtml_body_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_object.xml
+END
+feed_subtitle_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onchange.xml
+END
+acceptable_element_li.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_li.xml
+END
+item_xhtml_body_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onload.xml
+END
+item_content_encoded_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_frame.xml
+END
+style_tab_stops_list_5in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_tab_stops_list_5in.xml
+END
+feed_title_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onblur.xml
+END
+feed_tagline_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onblur.xml
+END
+acceptable_attribute_dynsrc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_dynsrc.xml
+END
+item_fullitem_script_map_summary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_script_map_summary.xml
+END
+entry_content_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onclick.xml
+END
+feed_subtitle_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onsubmit.xml
+END
+feed_info_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/feed_info_style.xml
+END
+acceptable_attribute_loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_loop.xml
+END
+acceptable_attribute_ismap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_ismap.xml
+END
+acceptable_element_nav.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_nav.xml
+END
+acceptable_attribute_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_list.xml
+END
+style_border_top_0pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_top_0pt.xml
+END
+feed_tagline_onkeydown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onkeydown.xml
+END
+acceptable_element_var.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_var.xml
+END
+acceptable_element_nextid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_nextid.xml
+END
+entry_content_link.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_link.xml
+END
+acceptable_attribute_min.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_min.xml
+END
+item_content_encoded_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onclick.xml
+END
+acceptable_attribute_max.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_max.xml
+END
+acceptable_attribute_maxlength.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_maxlength.xml
+END
+acceptable_element_span.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_span.xml
+END
+item_description_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onresize.xml
+END
+item_fullitem_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_script_cdata.xml
+END
+acceptable_attribute_galleryimg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_galleryimg.xml
+END
+feed_info_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_applet.xml
+END
+feed_tagline_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onresize.xml
+END
+acceptable_attribute_longdesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_longdesc.xml
+END
+feed_subtitle_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_crazy.xml
+END
+acceptable_attribute_open.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_open.xml
+END
+item_xhtml_body_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onclick.xml
+END
+feed_copyright_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onreset.xml
+END
+acceptable_element_select.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_select.xml
+END
+acceptable_attribute_end.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_end.xml
+END
+feed_info_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_blink.xml
+END
+acceptable_attribute_enctype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_enctype.xml
+END
+item_description_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onmousedown.xml
+END
+feed_title_embed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_embed.xml
+END
+acceptable_element_cite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_cite.xml
+END
+acceptable_attribute_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_template.xml
+END
+acceptable_element_address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_address.xml
+END
+entry_title_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onclick.xml
+END
+item_fullitem_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_meta.xml
+END
+item_content_encoded_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onmouseout.xml
+END
+feed_subtitle_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onmouseout.xml
+END
+acceptable_attribute_bgcolor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bgcolor.xml
+END
+acceptable_attribute_coords.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_coords.xml
+END
+item_description_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/item_description_style.xml
+END
+item_fullitem_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_ondblclick.xml
+END
+acceptable_element_img.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_img.xml
+END
+item_content_encoded_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_style.xml
+END
+acceptable_element_spacer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_spacer.xml
+END
+acceptable_element_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_map.xml
+END
+acceptable_attribute_nowrap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_nowrap.xml
+END
+entry_summary_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_script_inline.xml
+END
+item_description_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onreset.xml
+END
+item_body_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onfocus.xml
+END
+acceptable_attribute_datasrc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_datasrc.xml
+END
+acceptable_attribute_lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_lang.xml
+END
+acceptable_attribute_rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_rel.xml
+END
+item_xhtml_body_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_ondblclick.xml
+END
+acceptable_element_source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_source.xml
+END
+item_description_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_blink.xml
+END
+acceptable_attribute_ch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_ch.xml
+END
+acceptable_element_abbr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_abbr.xml
+END
+item_description_script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_script.xml
+END
+item_content_encoded_blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_blink.xml
+END
+acceptable_element_strong.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_strong.xml
+END
+acceptable_attribute_bgproperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_bgproperties.xml
+END
+acceptable_element_event-source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_event-source.xml
+END
+entry_summary_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onresize.xml
+END
+acceptable_attribute_disabled.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_disabled.xml
+END
+entry_summary_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onabort.xml
+END
+entry_title_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onmouseover.xml
+END
+feed_tagline_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onmouseout.xml
+END
+acceptable_element_dd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dd.xml
+END
+style_border_bottom_0pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_border_bottom_0pt.xml
+END
+entry_title_onchange.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onchange.xml
+END
+acceptable_element_sound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_sound.xml
+END
+acceptable_attribute_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_name.xml
+END
+item_description_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_meta.xml
+END
+acceptable_attribute_noshade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_noshade.xml
+END
+acceptable_element_dl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dl.xml
+END
+feed_subtitle_onunload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onunload.xml
+END
+feed_subtitle_onreset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onreset.xml
+END
+acceptable_element_noscript.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_noscript.xml
+END
+acceptable_element_big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_big.xml
+END
+feed_subtitle_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onmouseover.xml
+END
+acceptable_attribute_toppadding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_toppadding.xml
+END
+style_text_decoration_underline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_text_decoration_underline.xml
+END
+item_fullitem_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onblur.xml
+END
+acceptable_attribute_optimum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_optimum.xml
+END
+style_clear_both.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_clear_both.xml
+END
+entry_title_onsubmit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onsubmit.xml
+END
+acceptable_element_dt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_dt.xml
+END
+entry_title_ondblclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_ondblclick.xml
+END
+entry_content_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onfocus.xml
+END
+acceptable_element_th.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_th.xml
+END
+entry_summary_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onkeyup.xml
+END
+entry_summary_onmouseup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onmouseup.xml
+END
+item_content_encoded_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onkeypress.xml
+END
+feed_subtitle_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_subtitle_onkeypress.xml
+END
+item_xhtml_body_frame.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_frame.xml
+END
+feed_copyright_crazy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_crazy.xml
+END
+style_margin_left_5px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_margin_left_5px.xml
+END
+item_content_encoded_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_content_encoded_onfocus.xml
+END
+acceptable_attribute_nohref.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_nohref.xml
+END
+item_xhtml_body_onblur.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onblur.xml
+END
+acceptable_element_m.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_m.xml
+END
+acceptable_attribute_challenge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_challenge.xml
+END
+entry_content_script_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_script_cdata.xml
+END
+item_body_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onmouseover.xml
+END
+acceptable_attribute_for.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_for.xml
+END
+acceptable_element_u.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_u.xml
+END
+acceptable_attribute_usemap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_usemap.xml
+END
+item_xhtml_body_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_onfocus.xml
+END
+item_description_iframe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_iframe.xml
+END
+item_description_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_object.xml
+END
+style_padding_left_4px.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_padding_left_4px.xml
+END
+item_description_onload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_description_onload.xml
+END
+style_font_weight_bold.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_font_weight_bold.xml
+END
+entry_title_onfocus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_onfocus.xml
+END
+feed_info_script_inline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_script_inline.xml
+END
+entry_content_meta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_meta.xml
+END
+style_color_000080.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_color_000080.xml
+END
+entry_title_applet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_title_applet.xml
+END
+item_body_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_body_onmouseout.xml
+END
+acceptable_attribute_src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_src.xml
+END
+entry_summary_onclick.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_summary_onclick.xml
+END
+item_fullitem_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onabort.xml
+END
+style_vertical_align_bottom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_vertical_align_bottom.xml
+END
+feed_tagline_onkeypress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_tagline_onkeypress.xml
+END
+feed_copyright_onmouseout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_copyright_onmouseout.xml
+END
+acceptable_attribute_inputmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_inputmode.xml
+END
+feed_info_onresize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onresize.xml
+END
+entry_content_onmouseover.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/entry_content_onmouseover.xml
+END
+style_display_block.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_display_block.xml
+END
+acceptable_attribute_gutter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_gutter.xml
+END
+feed_title_onmousedown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_title_onmousedown.xml
+END
+acceptable_element_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_element_details.xml
+END
+feed_info_onabort.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/feed_info_onabort.xml
+END
+item_xhtml_body_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/225/trunk/feedparser/tests/illformed/sanitize/item_xhtml_body_style.xml
+END
+item_fullitem_onkeyup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/feedparser/tests/illformed/sanitize/item_fullitem_onkeyup.xml
+END
+style_mso_layout_grid_align_none.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/189/trunk/feedparser/tests/illformed/sanitize/style_mso_layout_grid_align_none.xml
+END
+acceptable_attribute_target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/260/trunk/feedparser/tests/illformed/sanitize/acceptable_attribute_target.xml
+END

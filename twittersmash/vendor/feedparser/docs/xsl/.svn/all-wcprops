@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/260/trunk/feedparser/docs/xsl
+END
+htmlcommon.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/31/trunk/feedparser/docs/xsl/htmlcommon.xsl
+END
+word2000.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/word2000.xsl
+END
+html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/256/trunk/feedparser/docs/xsl/html.xsl
+END
+text.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/text.xsl
+END
+htmlsingle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/htmlsingle.xsl
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/common.xsl
+END
+nonhtmlcommon.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/nonhtmlcommon.xsl
+END
+htmldist.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/260/trunk/feedparser/docs/xsl/htmldist.xsl
+END
+pdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/feedparser/docs/xsl/pdf.xsl
+END

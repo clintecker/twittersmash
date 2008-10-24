@@ -1,0 +1,1511 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/39/trunk/feedparser/tests/illformed/entities
+END
+prop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/prop.xml
+END
+upper_Ucirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ucirc.xml
+END
+macr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/macr.xml
+END
+upper_Pi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Pi.xml
+END
+upper_Epsilon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Epsilon.xml
+END
+upper_Egrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Egrave.xml
+END
+upper_Eta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Eta.xml
+END
+scaron.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/scaron.xml
+END
+upper_Prime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Prime.xml
+END
+cup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/cup.xml
+END
+sim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sim.xml
+END
+doesnotexist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/25/trunk/feedparser/tests/illformed/entities/doesnotexist.xml
+END
+permil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/permil.xml
+END
+sub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sub.xml
+END
+asymp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/asymp.xml
+END
+thorn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/thorn.xml
+END
+upper_Xi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Xi.xml
+END
+ge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ge.xml
+END
+psi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/psi.xml
+END
+upper_Gamma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Gamma.xml
+END
+bull.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/bull.xml
+END
+otimes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/otimes.xml
+END
+and.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/and.xml
+END
+upper_Upsilon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Upsilon.xml
+END
+emsp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/emsp.xml
+END
+loz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/loz.xml
+END
+upper_Ugrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ugrave.xml
+END
+part.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/part.xml
+END
+perp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/perp.xml
+END
+sup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sup.xml
+END
+sdot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sdot.xml
+END
+iquest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/iquest.xml
+END
+732.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/732.xml
+END
+ouml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ouml.xml
+END
+upper_Aacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Aacute.xml
+END
+oacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/oacute.xml
+END
+circ.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/circ.xml
+END
+phi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/phi.xml
+END
+lambda.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lambda.xml
+END
+frac34.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/frac34.xml
+END
+real.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/real.xml
+END
+ccedil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ccedil.xml
+END
+upper_Iacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Iacute.xml
+END
+pound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/pound.xml
+END
+cong.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/cong.xml
+END
+upper_Ouml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ouml.xml
+END
+fnof.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/fnof.xml
+END
+cent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/cent.xml
+END
+ordf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ordf.xml
+END
+int.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/int.xml
+END
+rlm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rlm.xml
+END
+there4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/there4.xml
+END
+iota.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/iota.xml
+END
+exist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/exist.xml
+END
+upper_AElig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_AElig.xml
+END
+upper_Mu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Mu.xml
+END
+thetasym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/thetasym.xml
+END
+sube.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sube.xml
+END
+deg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/deg.xml
+END
+aring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/aring.xml
+END
+sigma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sigma.xml
+END
+le.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/le.xml
+END
+oplus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/oplus.xml
+END
+upper_Delta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Delta.xml
+END
+theta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/theta.xml
+END
+upper_Yacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Yacute.xml
+END
+omicron.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/omicron.xml
+END
+upper_Kappa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Kappa.xml
+END
+upper_Iota.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Iota.xml
+END
+egrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/egrave.xml
+END
+lowast.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lowast.xml
+END
+crarr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/crarr.xml
+END
+upper_OElig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_OElig.xml
+END
+hearts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/hearts.xml
+END
+notin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/notin.xml
+END
+ugrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ugrave.xml
+END
+sup2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sup2.xml
+END
+upper_Ntilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ntilde.xml
+END
+upper_ETH.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_ETH.xml
+END
+sect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sect.xml
+END
+piv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/piv.xml
+END
+upper_Ograve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ograve.xml
+END
+8216.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/8216.xml
+END
+tilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/tilde.xml
+END
+euml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/euml.xml
+END
+aacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/aacute.xml
+END
+upper_Rho.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Rho.xml
+END
+rfloor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rfloor.xml
+END
+chi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/chi.xml
+END
+divide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/divide.xml
+END
+eta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/eta.xml
+END
+micro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/micro.xml
+END
+iacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/iacute.xml
+END
+bdquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/bdquo.xml
+END
+upper_Euml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Euml.xml
+END
+middot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/middot.xml
+END
+cedil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/cedil.xml
+END
+upper_Omicron.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Omicron.xml
+END
+image.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/image.xml
+END
+uuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/uuml.xml
+END
+radic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/radic.xml
+END
+ldquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ldquo.xml
+END
+alpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/alpha.xml
+END
+szlig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/szlig.xml
+END
+lceil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lceil.xml
+END
+omega.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/omega.xml
+END
+upsih.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upsih.xml
+END
+lrm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lrm.xml
+END
+rdquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rdquo.xml
+END
+yacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/yacute.xml
+END
+upper_Otilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Otilde.xml
+END
+8221.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/8221.xml
+END
+upper_Uuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Uuml.xml
+END
+rceil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rceil.xml
+END
+lArr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lArr.xml
+END
+ne.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ne.xml
+END
+cap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/cap.xml
+END
+shy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/shy.xml
+END
+upper_Tau.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Tau.xml
+END
+ni.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ni.xml
+END
+160.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/160.xml
+END
+clubs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/clubs.xml
+END
+uarr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/uarr.xml
+END
+copy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/copy.xml
+END
+rsaquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rsaquo.xml
+END
+beta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/beta.xml
+END
+brvbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/brvbar.xml
+END
+ntilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ntilde.xml
+END
+upper_Agrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Agrave.xml
+END
+lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lang.xml
+END
+acirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/acirc.xml
+END
+nu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/nu.xml
+END
+para.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/para.xml
+END
+ograve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ograve.xml
+END
+ecirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ecirc.xml
+END
+upper_Beta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Beta.xml
+END
+darr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/darr.xml
+END
+upper_Igrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Igrave.xml
+END
+icirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/icirc.xml
+END
+minus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/minus.xml
+END
+yen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/yen.xml
+END
+mdash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/mdash.xml
+END
+ndash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ndash.xml
+END
+lfloor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lfloor.xml
+END
+uml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/uml.xml
+END
+ocirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ocirc.xml
+END
+not.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/not.xml
+END
+lsquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lsquo.xml
+END
+zeta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/zeta.xml
+END
+upper_Dagger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Dagger.xml
+END
+sum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sum.xml
+END
+ang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ang.xml
+END
+ucirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ucirc.xml
+END
+rsquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rsquo.xml
+END
+zwj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/zwj.xml
+END
+upper_Sigma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Sigma.xml
+END
+upper_Aring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Aring.xml
+END
+prime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/prime.xml
+END
+upper_Atilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Atilde.xml
+END
+upper_Zeta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Zeta.xml
+END
+forall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/forall.xml
+END
+or.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/or.xml
+END
+upper_Theta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Theta.xml
+END
+otilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/otilde.xml
+END
+upper_Eacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Eacute.xml
+END
+gamma.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/gamma.xml
+END
+rho.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rho.xml
+END
+sbquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sbquo.xml
+END
+weierp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/weierp.xml
+END
+diams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/diams.xml
+END
+curren.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/curren.xml
+END
+alefsym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/alefsym.xml
+END
+ordm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ordm.xml
+END
+upper_Uacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Uacute.xml
+END
+nbsp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/nbsp.xml
+END
+upper_Oslash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Oslash.xml
+END
+iexcl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/iexcl.xml
+END
+lsaquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/lsaquo.xml
+END
+agrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/agrave.xml
+END
+thinsp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/thinsp.xml
+END
+upper_Psi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Psi.xml
+END
+sigmaf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sigmaf.xml
+END
+nsub.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/nsub.xml
+END
+pi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/pi.xml
+END
+igrave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/igrave.xml
+END
+nabla.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/nabla.xml
+END
+reg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/reg.xml
+END
+plusmn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/plusmn.xml
+END
+spades.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/spades.xml
+END
+xi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/xi.xml
+END
+times.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/times.xml
+END
+laquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/laquo.xml
+END
+rang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rang.xml
+END
+raquo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/raquo.xml
+END
+sup1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sup1.xml
+END
+equiv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/equiv.xml
+END
+delta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/delta.xml
+END
+dagger.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/dagger.xml
+END
+tau.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/tau.xml
+END
+sup3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/sup3.xml
+END
+upper_Phi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Phi.xml
+END
+kappa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/kappa.xml
+END
+upper_Nu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Nu.xml
+END
+auml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/auml.xml
+END
+upper_Alpha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Alpha.xml
+END
+upper_Scaron.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Scaron.xml
+END
+acute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/acute.xml
+END
+8217.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/8217.xml
+END
+isin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/isin.xml
+END
+atilde.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/atilde.xml
+END
+infin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/infin.xml
+END
+upper_Omega.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Omega.xml
+END
+ensp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/ensp.xml
+END
+rarr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/rarr.xml
+END
+eacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/eacute.xml
+END
+iuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/iuml.xml
+END
+frasl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/frasl.xml
+END
+upper_Auml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Auml.xml
+END
+epsilon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/epsilon.xml
+END
+frac12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/frac12.xml
+END
+frac14.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/frac14.xml
+END
+eth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/eth.xml
+END
+upper_Iuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Iuml.xml
+END
+mu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/mu.xml
+END
+aelig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/aelig.xml
+END
+uacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/uacute.xml
+END
+yuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/yuml.xml
+END
+zwnj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/zwnj.xml
+END
+oslash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/oslash.xml
+END
+upsilon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upsilon.xml
+END
+8220.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/8220.xml
+END
+upper_Oacute.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Oacute.xml
+END
+upper_Lambda.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Lambda.xml
+END
+upper_Acirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Acirc.xml
+END
+hArr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/hArr.xml
+END
+upper_Ccedil.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ccedil.xml
+END
+empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/empty.xml
+END
+trade.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/trade.xml
+END
+oelig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/oelig.xml
+END
+upper_Ecirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ecirc.xml
+END
+upper_Yuml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Yuml.xml
+END
+9830.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/26/trunk/feedparser/tests/illformed/entities/9830.xml
+END
+prod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/prod.xml
+END
+upper_Icirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Icirc.xml
+END
+upper_THORN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_THORN.xml
+END
+oline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/oline.xml
+END
+euro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/euro.xml
+END
+upper_Ocirc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Ocirc.xml
+END
+supe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/supe.xml
+END
+hellip.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/hellip.xml
+END
+upper_Chi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/trunk/feedparser/tests/illformed/entities/upper_Chi.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet
+END
+gb2312.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/gb2312.xml
+END
+shiftjis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/shiftjis.xml
+END
+big5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/big5.xml
+END
+eucjp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/eucjp.xml
+END
+tis620.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/tis620.xml
+END
+windows1255.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/windows1255.xml
+END
+euckr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/euckr.xml
+END
+koi8r.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/178/trunk/feedparser/tests/illformed/chardet/koi8r.xml
+END
