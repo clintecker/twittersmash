@@ -33,6 +33,7 @@ class Command(BaseCommand):
 					# Pull each feed
 					d = feedparser.parse(f.url)
 					# Loop through feed
+					d.entries.reverse()
 					for entry in d['entries']:
 						guid = entry.id
 						tweeted = entry.updated_parsed
@@ -50,12 +51,12 @@ class Command(BaseCommand):
 						
 						msg, created = Message.objects.get_or_create(
 							guid=guid, 
-							twitteraccount=account, 
+							twitter_account=account, 
 							defaults={
 								'feed': f, 
 								'tweeted': tweeted_dt,
 								'message': message,
-								'twitteraccount': account,
+								'twitter_account': account,
 						})
 						
 						if created:
