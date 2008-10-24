@@ -1,0 +1,4 @@
+*.pyc
+.svn
+*.egg-link
+arstechnica.db

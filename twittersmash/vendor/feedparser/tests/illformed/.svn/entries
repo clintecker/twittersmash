@@ -1,101 +1,0 @@
-8
-
-dir
-291
-http://feedparser.googlecode.com/svn/trunk/feedparser/tests/illformed
-http://feedparser.googlecode.com/svn
-
-
-
-2007-11-01T14:21:34.643649Z
-269
-sa3ruby
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-73d2b349-402e-0410-baf4-070fd12ab5b7
-
-lang
-dir
-
-mf_rel_enclosure
-dir
-
-entities
-dir
-
-sanitize
-dir
-
-encoding
-dir
-
-namespace
-dir
-
-cdf
-dir
-
-mf_rel_tag
-dir
-
-atom
-dir
-
-atom10
-dir
-
-mf_hcard
-dir
-
-itunes
-dir
-
-rss
-dir
-
-htmlish
-dir
-
-base
-dir
-
-chardet
-dir
-
-rdf
-dir
-
-.htaccess
-file
-
-
-
-
-2008-10-24T01:53:06.000000Z
-3b0bf175778a074543a7afb5ab5839a8
-2004-07-06T12:40:18.000000Z
-76
-f8dy
-has-props
-
-date
-dir
-
-amp
-dir
-
-mf_xfn
-dir
-

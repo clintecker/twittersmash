@@ -1,37 +1,0 @@
-8
-
-dir
-291
-http://feedparser.googlecode.com/svn/trunk/feedparser/docs
-http://feedparser.googlecode.com/svn
-
-
-
-2008-03-14T04:36:05.384479Z
-288
-pilgrim
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-73d2b349-402e-0410-baf4-070fd12ab5b7
-
-docbook
-dir
-
-xml
-dir
-
-xsl
-dir
-

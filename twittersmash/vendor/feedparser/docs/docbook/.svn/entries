@@ -1,34 +1,0 @@
-8
-
-dir
-291
-http://feedparser.googlecode.com/svn/trunk/feedparser/docs/docbook
-http://feedparser.googlecode.com/svn
-
-
-
-2004-06-23T13:45:14.000000Z
-24
-f8dy
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-73d2b349-402e-0410-baf4-070fd12ab5b7
-
-xsl
-dir
-
-dtd
-dir
-

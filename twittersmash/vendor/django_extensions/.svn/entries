@@ -1,58 +1,0 @@
-8
-
-dir
-151
-http://django-command-extensions.googlecode.com/svn/trunk/django_extensions
-http://django-command-extensions.googlecode.com/svn
-
-
-
-2008-10-23T06:38:04.994543Z
-149
-v.oostveen
-has-props
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-70537768-783f-0410-b1a0-8399f7a62752
-
-utils
-dir
-
-conf
-dir
-
-db
-dir
-
-__init__.py
-file
-
-
-
-
-2008-10-24T00:42:39.000000Z
-5428d8865ba22d41e217a4b8573962ff
-2008-08-09T15:06:09.920616Z
-94
-v.oostveen
-
-templatetags
-dir
-
-management
-dir
-
-jobs
-dir
-
