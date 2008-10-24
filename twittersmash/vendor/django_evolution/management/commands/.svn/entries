@@ -1,0 +1,52 @@
+8
+
+dir
+163
+http://django-evolution.googlecode.com/svn/trunk/django_evolution/management/commands
+http://django-evolution.googlecode.com/svn
+
+
+
+2008-10-03T12:28:35.719245Z
+163
+freakboy3742
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8655a95f-0638-0410-abc2-2f1ed958ef3d
+
+__init__.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-09-25T13:46:13.109970Z
+4
+khoobks@westnet.com.au
+
+evolve.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+52d24b18b9ff8a65727d0fe1b769f6c1
+2008-10-03T12:28:35.719245Z
+163
+freakboy3742
+

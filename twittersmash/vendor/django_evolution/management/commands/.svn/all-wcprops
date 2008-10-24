@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/django_evolution/management/commands
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/django_evolution/management/commands/__init__.py
+END
+evolve.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/django_evolution/management/commands/evolve.py
+END

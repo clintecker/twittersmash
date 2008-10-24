@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/160/trunk/django_evolution/db
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/158/trunk/django_evolution/db/common.py
+END
+postgresql_psycopg2.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/96/trunk/django_evolution/db/postgresql_psycopg2.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/122/trunk/django_evolution/db/__init__.py
+END
+postgresql.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/122/trunk/django_evolution/db/postgresql.py
+END
+mysql_old.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/trunk/django_evolution/db/mysql_old.py
+END
+sqlite3.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/157/trunk/django_evolution/db/sqlite3.py
+END
+mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/160/trunk/django_evolution/db/mysql.py
+END

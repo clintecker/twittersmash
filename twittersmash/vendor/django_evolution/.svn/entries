@@ -1,0 +1,133 @@
+8
+
+dir
+163
+http://django-evolution.googlecode.com/svn/trunk/django_evolution
+http://django-evolution.googlecode.com/svn
+
+
+
+2008-10-03T12:28:35.719245Z
+163
+freakboy3742
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8655a95f-0638-0410-abc2-2f1ed958ef3d
+
+diff.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+adb5b36f20cdbdc349c834507f35c429
+2008-06-11T13:28:40.733885Z
+148
+freakboy3742
+
+admin.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+1985f24993585da4ef961c34057af020
+2008-09-04T14:56:16.796651Z
+154
+freakboy3742
+
+tests
+dir
+
+db
+dir
+
+__init__.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+8758a149844db6b2fb3ef9f3136eb91b
+2008-09-28T11:33:47.607317Z
+162
+freakboy3742
+
+evolve.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+2a114adc2bdb2accbed745ea74675bbd
+2007-10-27T05:46:54.823746Z
+63
+freakboy3742
+
+utils.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+cf636f61dc867c0e9e7511e259fbb673
+2007-12-21T13:34:23.570422Z
+122
+freakboy3742
+
+signature.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+c0b31dcc81c5ee9e8a282c8c1a51282f
+2008-07-17T12:40:41.517597Z
+153
+freakboy3742
+
+models.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+125c47e721d888cddcd1a6fcc9e630ef
+2008-09-04T14:56:16.796651Z
+154
+freakboy3742
+
+mutations.py
+file
+
+
+
+
+2008-10-24T01:06:03.000000Z
+4e1ce6302ce7ae60adc74db0d1feb682
+2008-09-28T11:33:47.607317Z
+162
+freakboy3742
+
+management
+dir
+
