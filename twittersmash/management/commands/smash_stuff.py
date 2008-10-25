@@ -37,7 +37,10 @@ class Command(BaseCommand):
 					for entry in d['entries']:
 						guid = entry.id
 						tweeted = entry.updated_parsed
-						message = twit_re.search(entry.title).groups()[1]
+						if twit_re.search(entry.title):
+						    message = twit_re.search(entry.title).groups()[1]
+						else:
+						    message = entry.title
 						#print guid, tweeted, message
 						tweeted_dt = datetime.datetime(
 							tweeted[0], 
