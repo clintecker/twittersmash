@@ -26,28 +26,22 @@ class SmashTest(TestCase):
             active = True,
         )
         
-        self.api = twitter.Api(username = self.ta1.username, password=self.ta1.password)
+        #self.api = twitter.Api(username = self.ta1.username, password=self.ta1.password)
 
     def tearDown(self):
-        print "Waiting for Twitter to catch up."
-        time.sleep(10)
-        statuses = self.api.GetUserTimeline(self.ta1.username)
-        print "Destroying %s statuses" % (len(statuses))
-        for status in statuses:
-            self.api.DestroyStatus(status.id)
+        pass
 
     def testBasicSmash(self):
         "Takes one feed and pipes it into one Twitter Account"
         from twittersmash.management.commands.smash_stuff import Command as SmashStuff
-        ss = SmashStuff()
-        
         # Add one feed to one TwitterAccount
         self.ta1.feeds.add(self.feed1)
-        
-        # Run the importer
-        ss.handle()
-        
-        # There should be 20 entries in the test account
-        statuses = self.api.GetUserTimeline(self.ta1.username)
-        self.assertEquals(len(statuses), 20)
+        self.message1 = Message.objects.create(
+            message = 'This is a test message',
+            guid = 'http://twitter.com/clint/status/975241573',
+            sent_to_twitter = True,
+            tweeted = datetime.datetime.now(),
+            twitter_account = self.ta1,
+            feed = self.feed1,
+        )
         
