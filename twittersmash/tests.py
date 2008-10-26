@@ -231,4 +231,3 @@ class SmashTest(TestCase):
         self.assertEquals(results['feeds_pulled'], 1)
         self.assertEquals(results['messages_added'], 20)
         self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
-        

@@ -88,14 +88,21 @@ class Command(BaseCommand):
                         )
                         tweeted_dt_cst = central.localize(tweeted_dt)
                         tweeted_dt_utc = tweeted_dt_cst.astimezone(utc)
-                        
+                        tweeted_dt = datetime.datetime(
+                            tweeted_dt_utc.utctimetuple()[0],
+                            tweeted_dt_utc.utctimetuple()[1],
+                            tweeted_dt_utc.utctimetuple()[2],
+                            tweeted_dt_utc.utctimetuple()[3],
+                            tweeted_dt_utc.utctimetuple()[4],
+                            tweeted_dt_utc.utctimetuple()[5],
+                        )
                         
                         msg, created = Message.objects.get_or_create(
                             guid=guid, 
                             twitter_account=account, 
                             defaults={
                                 'feed': f, 
-                                'tweeted': tweeted_dt_utc,
+                                'tweeted': tweeted_dt,
                                 'message': message,
                                 'twitter_account': account,
                         })
