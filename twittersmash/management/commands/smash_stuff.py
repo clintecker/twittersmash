@@ -72,7 +72,8 @@ class Command(BaseCommand):
                         entries_pulled += 1
                         guid = entry.id
                         tweeted = entry.updated_parsed
-                        if twit_re.search(entry.title):
+                        
+                        if twit_re.search(entry.title) and not account.prepend_names:
                             message = twit_re.search(entry.title).groups()[1]
                         else:
                             message = entry.title
@@ -121,6 +122,7 @@ class Command(BaseCommand):
                                         # Remove any hashtags
                                         message = tag_re.sub('', message)
                                     # We need to send it to the twitter account
+                                    message = message.strip()
                                     try:
                                         if not options.get('dryrun'):
                                             status = api.PostUpdate(message)
