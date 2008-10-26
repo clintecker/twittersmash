@@ -10,7 +10,7 @@ class FeedAdmin(admin.ModelAdmin):
     list_display = ('name', 'url', 'last_checked', 'polling_rate')
 
 class TwitterAccountAdmin(admin.ModelAdmin):
-    list_display = ('username',)
+    list_display = ('username', 'philter', 'minimum_datetime', 'strip_tags', 'active')
    
 admin.site.register(Message, MessageAdmin)
 admin.site.register(Feed, FeedAdmin)

@@ -14,6 +14,7 @@ central = timezone('US/Central')
 utc = pytz.utc
 
 twit_re = re.compile(r'^(?P<username>\S+): (?P<message>.*)$')
+tag_re = re.compile(r'\#([A-Za-z0-9]+)')
 
 class Command(BaseCommand):
     help = "Loops through feeds and determines if messages need to be sent to any twitter accounts"
@@ -36,8 +37,15 @@ class Command(BaseCommand):
         feeds_checked = 0
         accounts = TwitterAccount.objects.all().filter(active=True)
         for account in accounts:
+            # Prepare keywords
             keywords = account.philter.lower().split(',')
             keywords = map(string.strip, keywords)
+            # Prep minimum DT
+            if account.minimum_datetime:
+                # Stored value here is UTC
+                min_dt = utc.localize(account.minimum_datetime)
+            else:
+                min_dt = None
             api = twitter.Api(username=account.username, password=account.password)
             if not quiet:
                 print "Checking %s" % (account,)
@@ -81,6 +89,7 @@ class Command(BaseCommand):
                         tweeted_dt_cst = central.localize(tweeted_dt)
                         tweeted_dt_utc = tweeted_dt_cst.astimezone(utc)
                         
+                        
                         msg, created = Message.objects.get_or_create(
                             guid=guid, 
                             twitter_account=account, 
@@ -93,18 +102,26 @@ class Command(BaseCommand):
                         
                         if created:
                             messages_added += 1
-                            # Wasn't already in the db
+                            # Wasn't already in the db                        
+                            if min_dt and tweeted_dt_utc <= min_dt:
+                                if not quiet:
+                                    print "   * Skipped because of time restrictions"
+                                continue
                             for keyword in keywords:
                                 if keyword in message.lower():
+                                    if account.strip_tags:
+                                        print "Removing tags"
+                                        # Remove any hashtags
+                                        message = tag_re.sub('', message)
                                     # We need to send it to the twitter account
                                     try:
                                         if not options.get('dryrun'):
                                             status = api.PostUpdate(message)
                                             if not quiet:
-                                                print "   * Sent to Twitter (%s)" % (keyword,)
+                                                print "   * Sent to Twitter: '%s' (%s)" % (message, keyword,)
                                         else:
                                             if not quiet:
-                                                print "   * Dry run (%s)" % (keyword,)
+                                                print "   * Dry run: '%s' (%s)" % (message, keyword,)
                                         entries_tweeted += 1
                                         msg.sent_to_twitter = True
                                         msg.save()
