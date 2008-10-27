@@ -99,7 +99,7 @@ class SmashTest(TestCase):
         self.ta1.feeds.add(self.feed2)
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 2)
         self.assertEquals(results['accounts_skipped'], 0)
         self.assertEquals(results['feeds_pulled'], 2)
@@ -118,7 +118,7 @@ class SmashTest(TestCase):
         c = SmashStuff()
         # Run the smash_stuff command
         
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 2)
         self.assertEquals(results['accounts_skipped'], 0)
         self.assertEquals(results['feeds_pulled'], 2)
@@ -137,7 +137,7 @@ class SmashTest(TestCase):
         self.ta1.feeds.add(self.feed2)
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 2)
         self.assertEquals(results['accounts_skipped'], 0)
         self.assertEquals(results['feeds_pulled'], 2)
@@ -160,7 +160,7 @@ class SmashTest(TestCase):
         self.ta1.feeds.add(self.feed2)
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 1)
         self.assertEquals(results['accounts_skipped'], 1)
         self.assertEquals(results['feeds_checked'], 2)
@@ -186,7 +186,7 @@ class SmashTest(TestCase):
         self.ta1.feeds.add(self.feed2)
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 0)
         self.assertEquals(results['accounts_skipped'], 2)
         self.assertEquals(results['feeds_checked'], 2)
@@ -212,7 +212,7 @@ class SmashTest(TestCase):
         self.ta1.feeds.add(self.feed2)
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 0)
         self.assertEquals(results['accounts_skipped'], 2)
         self.assertEquals(results['feeds_checked'], 2)
@@ -224,10 +224,15 @@ class SmashTest(TestCase):
         
         c = SmashStuff()
         # Run the smash_stuff command
-        results = c.handle(dryrun=True, quiet=True)
+        results = c.handle(dryrun=True, quiet=True, debug=True)
         self.assertEquals(results['accounts_ready'], 1)
         self.assertEquals(results['accounts_skipped'], 1)
         self.assertEquals(results['feeds_checked'], 2)
         self.assertEquals(results['feeds_pulled'], 1)
         self.assertEquals(results['messages_added'], 20)
         self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
+
+### TODO
+# 1. Tests for tag stripping
+# 2. Tests for @replies
+# 3. Tests for name prepending

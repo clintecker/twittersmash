@@ -23,6 +23,8 @@ class Command(BaseCommand):
             help='Go through the motions but commit nothing to Twitter'),
         make_option('--quiet', '-q', action='store_true', dest='quiet', default=False,
             help='Don\t print anything to console'),
+        make_option('--debug', '-d', action='store_true', dest='debug', default=False,
+            help='Return debugging information'),
     )
 
     def handle(self, *args, **options):
@@ -37,6 +39,7 @@ class Command(BaseCommand):
         feeds_checked = 0
         accounts = TwitterAccount.objects.all().filter(active=True)
         for account in accounts:
+            reply_re = re.compile(r'\@%s' % account.username)
             # Prepare keywords
             keywords = account.philter.lower().split(',')
             keywords = map(string.strip, keywords)
@@ -108,35 +111,50 @@ class Command(BaseCommand):
                                 'twitter_account': account,
                         })
                         
+                        send_to_twitter = False
+                        
                         if created:
                             messages_added += 1
+                            
                             # Wasn't already in the db                        
                             if min_dt and tweeted_dt_utc <= min_dt:
                                 if not quiet:
                                     print "   * Skipped because of time restrictions"
-                                continue
-                            for keyword in keywords:
-                                if keyword in message.lower():
-                                    if account.strip_tags:
-                                        print "Removing tags"
-                                        # Remove any hashtags
-                                        message = tag_re.sub('', message)
-                                    # We need to send it to the twitter account
-                                    message = message.strip()
-                                    try:
-                                        if not options.get('dryrun'):
-                                            status = api.PostUpdate(message)
-                                            if not quiet:
-                                                print "   * Sent to Twitter: '%s' (%s)" % (message, keyword,)
-                                        else:
-                                            if not quiet:
-                                                print "   * Dry run: '%s' (%s)" % (message, keyword,)
-                                        entries_tweeted += 1
-                                        msg.sent_to_twitter = True
-                                        msg.save()
-                                    except e:
-                                        if not quiet:
-                                            print "   - Failed to send to twitter (%s)" % (e,)
+                            else:
+                                # Check to see if this message contains any of the keywords
+                                for keyword in keywords:
+                                    if keyword in message.lower():
+                                        send_to_twitter = True
+                                        break
+                            
+                                # Check to see if the message was directed at this account
+                                if reply_re.search(message):
+                                    send_to_twitter = True
+                                    message = reply_re.sub('', message).strip()
+                                
+                        if send_to_twitter:
+                            
+                            if account.strip_tags:
+                                print "Removing tags"
+                                message = tag_re.sub('', message)
+                            
+                            # Clean up whitespace
+                            message = message.strip()
+
+                            try:
+                                if not options.get('dryrun'):
+                                    status = api.PostUpdate(message)
+                                    if not quiet:
+                                        print "   * Sent to Twitter: '%s' (%s)" % (message, keyword,)
+                                else:
+                                    if not quiet:
+                                        print "   * Dry run: '%s' (%s)" % (message, keyword,)
+                                entries_tweeted += 1
+                                msg.sent_to_twitter = True
+                                msg.save()
+                            except e:
+                                if not quiet:
+                                    print "   - Failed to send to twitter (%s)" % (e,)
                 else:
                     if not quiet:
                         print "   * Checked within the last %s minutes" % (f.polling_rate)
