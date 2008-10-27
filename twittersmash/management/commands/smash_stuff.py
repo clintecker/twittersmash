@@ -14,7 +14,8 @@ central = timezone('US/Central')
 utc = pytz.utc
 
 twit_re = re.compile(r'^(?P<username>\S+): (?P<message>.*)$')
-tag_re = re.compile(r'\#([A-Za-z0-9]+)')
+tag_pat = r'\#([A-Za-z0-9]+)'
+tag_re = re.compile(tag_pat)
 
 class Command(BaseCommand):
     help = "Loops through feeds and determines if messages need to be sent to any twitter accounts"
@@ -143,7 +144,19 @@ class Command(BaseCommand):
                                 message = tag_re.sub('', message)
 
                             if account.append_tags:
-                                pass
+                                m = re.findall(tag_pat, message)
+                                if m:
+                                    # remove each hashtag
+                                    for match in m:
+                                        message = tag_re.sub('', message)
+                                    # remove double spaces left from replacements
+                                    message = message.replace('  ', ' ')
+                                    # clean up whitespace
+                                    message = message.strip()
+                                    # append each tag to message
+                                    for match in m:
+                                        message += " #%s" % (match,)
+                                        
                             # Clean up whitespace
                             message = message.strip()
 
