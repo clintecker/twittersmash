@@ -98,7 +98,7 @@ class Command(BaseCommand):
                                 'message': message,
                                 'twitter_account': account,
                         })
-                                                
+                        send_to_twitter = False                      
                         if created:
                             messages_added += 1
                             send_to_twitter, message = self.process_messages(
