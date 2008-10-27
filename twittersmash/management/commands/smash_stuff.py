@@ -38,18 +38,9 @@ class Command(BaseCommand):
         feeds_pulled = 0
         messages_added = 0
         feeds_checked = 0
+        messages_sent = []
         accounts = TwitterAccount.objects.all().filter(active=True)
         for account in accounts:
-            reply_re = re.compile(r'\@%s' % account.username)
-            # Prepare keywords
-            keywords = account.philter.lower().strip().split(',')
-            keywords = map(string.strip, keywords)
-            # Prep minimum DT
-            if account.minimum_datetime:
-                # Stored value here is UTC
-                min_dt = utc.localize(account.minimum_datetime)
-            else:
-                min_dt = None
             api = twitter.Api(username=account.username, password=account.password)
             if not quiet:
                 print "Checking %s" % (account,)
@@ -58,7 +49,7 @@ class Command(BaseCommand):
                 feeds_checked += 1
                 if not quiet:
                     print " - %s" % (f,)
-                # Get list of feeds who'se last_update + polling_rate is less than now
+                # Get list of feeds whose last_update + polling_rate is less than now
                 if f.last_checked == None or f.last_checked + \
                 datetime.timedelta(minutes=f.polling_rate) < datetime.datetime.now():
                     accounts_ready += 1
@@ -76,11 +67,7 @@ class Command(BaseCommand):
                         entries_pulled += 1
                         guid = entry.id
                         tweeted = entry.updated_parsed
-                        
-                        if twit_re.search(entry.title) and not account.prepend_names:
-                            message = twit_re.search(entry.title).groups()[1]
-                        else:
-                            message = entry.title
+                        message = entry.title
                         #print guid, tweeted, message
                         tweeted_dt = datetime.datetime(
                             tweeted[0], 
@@ -111,55 +98,16 @@ class Command(BaseCommand):
                                 'message': message,
                                 'twitter_account': account,
                         })
-                        
-                        send_to_twitter = False
-                        
+                                                
                         if created:
                             messages_added += 1
-                            
-                            # Wasn't already in the db                        
-                            if min_dt and tweeted_dt_utc <= min_dt:
-                                if not quiet:
-                                    print "   * Skipped because of time restrictions"
-                            else:
-                                # Check to see if this message contains any of the keywords
-                                if keywords:
-                                    for keyword in keywords:
-                                        if keyword in message.lower():
-                                            send_to_twitter = True
-                                            break
-                                else:
-                                    send_to_twitter = True
-                            
-                                # Check to see if the message was directed at this account
-                                if account.philter_replies:
-                                    if reply_re.search(message):
-                                        send_to_twitter = True
-                                        message = reply_re.sub('', message).strip()
-                                
+                            send_to_twitter, message = self.process_messages(
+                                account=account,
+                                message=message,
+                                created=tweeted_dt_utc,
+                                options=options,
+                            )
                         if send_to_twitter:
-                            
-                            if account.strip_tags:
-                                print "Removing tags"
-                                message = tag_re.sub('', message)
-
-                            if account.append_tags:
-                                m = re.findall(tag_pat, message)
-                                if m:
-                                    # remove each hashtag
-                                    for match in m:
-                                        message = tag_re.sub('', message)
-                                    # remove double spaces left from replacements
-                                    message = message.replace('  ', ' ')
-                                    # clean up whitespace
-                                    message = message.strip()
-                                    # append each tag to message
-                                    for match in m:
-                                        message += " #%s" % (match,)
-                                        
-                            # Clean up whitespace
-                            message = message.strip()
-
                             try:
                                 if not options.get('dryrun'):
                                     status = api.PostUpdate(message)
@@ -178,13 +126,79 @@ class Command(BaseCommand):
                     if not quiet:
                         print "   * Checked within the last %s minutes" % (f.polling_rate)
                     accounts_skipped += 1
-        return {
-            'entries_pulled': entries_pulled,
-            'accounts_skipped': accounts_skipped,
-            'accounts_ready': accounts_ready,
-            'entries_tweeted': entries_tweeted,
-            'feeds_pulled': feeds_pulled,
-            'messages_added': messages_added,
-            'feeds_checked': feeds_checked,
-        }
+        
+        if options.get('debug'):
+            return {
+                'entries_pulled': entries_pulled,
+                'accounts_skipped': accounts_skipped,
+                'accounts_ready': accounts_ready,
+                'entries_tweeted': entries_tweeted,
+                'feeds_pulled': feeds_pulled,
+                'messages_added': messages_added,
+                'feeds_checked': feeds_checked,
+            }
             
+    def process_messages(self, account, message, created, options):
+        send_to_twitter = False
+        quiet = options.get('quiet')
+        reply_re = re.compile(r'\@%s' % account.username)
+        
+        # Prepare keywords
+        keywords = account.philter.lower().strip().split(',')
+        keywords = map(string.strip, keywords)
+        if keywords == ['']: keywords = []
+        
+        # Prep minimum DT
+        if account.minimum_datetime:
+            # Stored value here is UTC
+            min_dt = utc.localize(account.minimum_datetime)
+        else:
+            min_dt = None
+            
+        # Wasn't already in the db                        
+        if min_dt and created <= min_dt:
+            if not quiet:
+                print "   * Skipped because of time restrictions"
+        else:
+            # Remove userames if needed
+            if twit_re.search(message) and not account.prepend_names:
+                message = twit_re.search(message).groups()[1]
+            
+            # Check to see if this message contains any of the keywords
+            if keywords:
+                for keyword in keywords:
+                    if keyword in message.lower():
+                        send_to_twitter = True
+                        break
+            else:
+                send_to_twitter = False
+    
+            # Check to see if the message was directed at this account
+            if account.philter_replies:
+                if reply_re.search(message):
+                    send_to_twitter = True
+                    message = reply_re.sub('', message).strip()
+    
+            if account.strip_tags:
+                if not quiet:
+                    print "   * Removing tags"
+                message = tag_re.sub('', message)
+        
+            if account.append_tags:
+                m = re.findall(tag_pat, message)
+                if m:
+                    # remove each hashtag
+                    for match in m:
+                        message = tag_re.sub('', message)
+                    # clean up whitespace
+                    message = message.strip()
+                    # append each tag to message
+                    for match in m:
+                        message += " #%s" % (match,)
+
+            # Clean up whitespace
+            message = message.strip()
+            # Remove double spaces left from replacements
+            message = message.replace('  ', ' ')
+            
+        return send_to_twitter, message

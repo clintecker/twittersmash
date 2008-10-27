@@ -6,6 +6,10 @@ import datetime
 import twitter
 import time
 
+options = {
+    'quiet': True,
+}
+
 class SmashTest(TestCase):
 
     def setUp(self):
@@ -105,7 +109,8 @@ class SmashTest(TestCase):
         self.assertEquals(results['feeds_pulled'], 2)
         self.assertEquals(results['feeds_checked'], 2)
         self.assertEquals(results['messages_added'], 40)
-        self.assertTrue(results['messages_added'] == results['entries_tweeted'] == results['entries_pulled'])
+        self.assertTrue(results['messages_added'] == results['entries_pulled'])
+        self.assertEquals(results['entries_tweeted'], 0)
         
     def testSmashStuffCommandFilter(self):
         "Sets up two feeds to get smashed into another and runs through the smash_stuff command with filter"
@@ -161,6 +166,7 @@ class SmashTest(TestCase):
         c = SmashStuff()
         # Run the smash_stuff command
         results = c.handle(dryrun=True, quiet=True, debug=True)
+        print results
         self.assertEquals(results['accounts_ready'], 1)
         self.assertEquals(results['accounts_skipped'], 1)
         self.assertEquals(results['feeds_checked'], 2)
@@ -232,7 +238,696 @@ class SmashTest(TestCase):
         self.assertEquals(results['messages_added'], 20)
         self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
 
-### TODO
-# 1. Tests for tag stripping
-# 2. Tests for @replies
-# 3. Tests for name prepending
+class TweetProcessing(TestCase):
+    def setUp(self):
+        
+        self.ta2 = TwitterAccount.objects.create(
+            username = 'arstest',
+            password = 'ipitythefool',
+            philter = '', # Default
+            active = True, # Default
+            philter_replies = True, # Default
+            minimum_datetime = None, # Default
+            strip_tags = False, # Default
+            prepend_names = True, # Default
+            append_tags = True, # Default
+        )
+        
+        self.test_tweet1 = 'mrkurt: #pdc2008 tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc..'
+        self.test_tweet2 = 'drpizza: #pdc2008 er, the pricing should be competitive...'
+        self.test_tweet3 = 'arspdc: #pdc2008 muglia is saying that this is the same scale as the 1992 introduction of NT'
+        self.test_tweet4 = 'clint: @shadowbottle By doing stuff like letting the screen get dim and shipping better drivers'
+        self.test_tweet5 = 'kenfisher: There\'s a giant bouncy Channel 9 mascot #pdc2008 #pdc08'
+        self.test_tweet6 = 'Lorem ipsum dolor sit #pdc amet, #blah consectetur adipisicing elit'
+        self.test_tweet7 = 'scobleizer: @arstest Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+        self.test_tweet8 = 'Lorem ipsum dolor sit amet, @arstest consectetur adipisicing elit, sed do eiusmod'
+        self.test_tweet9 = 'blah: Lorem ipsum dolor sit amet, @arstest consectetur adipisicing elit, sed do eiusmod'
+        self.test_tweet10 = 'ejacqui: Lorem #pdc08 dolor sit amet, consectetur adipisicing elit, sed do eiusmod'
+
+        from twittersmash.management.commands.smash_stuff import Command as SmashStuff
+        self.process = SmashStuff().process_messages
+
+    def tearDown(self):
+        pass
+
+    def testDefaults(self):
+        "Test defaults"     
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'mrkurt: tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc.. #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'drpizza: er, the pricing should be competitive... #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'arspdc: muglia is saying that this is the same scale as the 1992 introduction of NT #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet5)
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit #pdc #blah')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'scobleizer: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'ejacqui: Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod #pdc08')
+
+    def testTagStripping(self):
+        "Test tag stripping"
+        self.ta2.strip_tags = True
+        self.ta2.save()
+    
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'mrkurt: tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc..')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'drpizza: er, the pricing should be competitive...')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'arspdc: muglia is saying that this is the same scale as the 1992 introduction of NT')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'kenfisher: There\'s a giant bouncy Channel 9 mascot')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'scobleizer: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'ejacqui: Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+        
+    def testReplyFiltering(self):
+        "Test reply filtering"
+        self.ta2.philter_replies = False
+        self.ta2.save()
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'mrkurt: tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc.. #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'drpizza: er, the pricing should be competitive... #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'arspdc: muglia is saying that this is the same scale as the 1992 introduction of NT #pdc2008')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet5)
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit #pdc #blah')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'scobleizer: @arstest Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, @arstest consectetur adipisicing elit, sed do eiusmod')
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, @arstest consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'ejacqui: Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod #pdc08')
+
+    def testNamePrepending(self):
+        "Test Name Prepending"     
+        self.ta2.prepend_names = False
+        self.ta2.save()
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc.. #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'er, the pricing should be competitive... #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'muglia is saying that this is the same scale as the 1992 introduction of NT #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, '@shadowbottle By doing stuff like letting the screen get dim and shipping better drivers')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'There\'s a giant bouncy Channel 9 mascot #pdc2008 #pdc08')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit #pdc #blah')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod #pdc08')
+
+    def testTagAppending(self):
+        "Test tag appending"     
+        self.ta2.append_tags = False
+        self.ta2.save()
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'mrkurt: #pdc2008 tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc..')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'drpizza: #pdc2008 er, the pricing should be competitive...')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'arspdc: #pdc2008 muglia is saying that this is the same scale as the 1992 introduction of NT')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet5)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit #pdc amet, #blah consectetur adipisicing elit')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'scobleizer: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'ejacqui: Lorem #pdc08 dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+    def testTagFilteringOneTag(self):
+        "Test tag filters"  
+        self.ta2.philter = '#pdc2008'
+        self.ta2.save()
+        
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'mrkurt: tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc.. #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'drpizza: er, the pricing should be competitive... #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'arspdc: muglia is saying that this is the same scale as the 1992 introduction of NT #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, self.test_tweet5)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit #pdc #blah')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'scobleizer: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'ejacqui: Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod #pdc08')
+
+    def testTagFilteringMultipleTags(self):
+        "Test tag filters"  
+        self.ta2.philter = '#pdc2008, #pdc08'
+        self.ta2.save()
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet1,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'mrkurt: tomorrow isn\'t just about infrastructure; it\'s about the user experience, etc.. #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet2,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'drpizza: er, the pricing should be competitive... #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet3,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'arspdc: muglia is saying that this is the same scale as the 1992 introduction of NT #pdc2008')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet4,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, self.test_tweet4)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet5,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, self.test_tweet5)
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet6,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, False)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit #pdc #blah')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet7,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'scobleizer: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet8,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet9,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'blah: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod')
+
+        send_to_twitter, message = self.process(
+            account = self.ta2,
+            message = self.test_tweet10,
+            created = datetime.datetime.now(),
+            options = options,
+        )
+        self.assertEquals(send_to_twitter, True)
+        self.assertEquals(message, 'ejacqui: Lorem dolor sit amet, consectetur adipisicing elit, sed do eiusmod #pdc08')
