@@ -166,13 +166,13 @@ class SmashTest(TestCase):
         c = SmashStuff()
         # Run the smash_stuff command
         results = c.handle(dryrun=True, quiet=True, debug=True)
-        print results
         self.assertEquals(results['accounts_ready'], 1)
         self.assertEquals(results['accounts_skipped'], 1)
         self.assertEquals(results['feeds_checked'], 2)
         self.assertEquals(results['feeds_pulled'], 1)
         self.assertEquals(results['messages_added'], 20)
-        self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
+        self.assertTrue(results['messages_added'] == results['entries_pulled'])
+        self.assertEqual(results['entries_tweeted'], 0)
     
     def testSmashStuffCommandTwoRateLimit(self):
         "Sets up two feeds to get smashed into another and runs through the smash_stuff command.  No accounts need to be checked."
@@ -207,7 +207,7 @@ class SmashTest(TestCase):
         self.ta1.save()
 
         self.feed1.polling_rate = 1
-        self.feed1.last_checked = datetime.datetime.now() - datetime.timedelta(seconds=50)
+        self.feed1.last_checked = datetime.datetime.now() - datetime.timedelta(seconds=55)
         self.feed1.save()
 
         self.feed2.polling_rate = 1
@@ -226,6 +226,7 @@ class SmashTest(TestCase):
         self.assertEquals(results['messages_added'], 0)
         self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
         
+        # Wait for second feed to come into checking time
         time.sleep(10)
         
         c = SmashStuff()
@@ -236,7 +237,8 @@ class SmashTest(TestCase):
         self.assertEquals(results['feeds_checked'], 2)
         self.assertEquals(results['feeds_pulled'], 1)
         self.assertEquals(results['messages_added'], 20)
-        self.assertTrue(results['messages_added'] == results['entries_pulled'] == results['entries_tweeted'])
+        self.assertTrue(results['messages_added'] == results['entries_pulled'])
+        self.assertEquals(results['entries_tweeted'], 0)
 
 class TweetProcessing(TestCase):
     def setUp(self):
