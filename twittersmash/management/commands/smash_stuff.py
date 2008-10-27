@@ -19,7 +19,7 @@ tag_re = re.compile(r'\#([A-Za-z0-9]+)')
 class Command(BaseCommand):
     help = "Loops through feeds and determines if messages need to be sent to any twitter accounts"
     option_list = BaseCommand.option_list + (
-        make_option('--dryrun', '-d', action='store_true', dest='dryrun', default=False,
+        make_option('--dryrun', '-D', action='store_true', dest='dryrun', default=False,
             help='Go through the motions but commit nothing to Twitter'),
         make_option('--quiet', '-q', action='store_true', dest='quiet', default=False,
             help='Don\t print anything to console'),
@@ -41,7 +41,7 @@ class Command(BaseCommand):
         for account in accounts:
             reply_re = re.compile(r'\@%s' % account.username)
             # Prepare keywords
-            keywords = account.philter.lower().split(',')
+            keywords = account.philter.lower().strip().split(',')
             keywords = map(string.strip, keywords)
             # Prep minimum DT
             if account.minimum_datetime:
@@ -122,22 +122,28 @@ class Command(BaseCommand):
                                     print "   * Skipped because of time restrictions"
                             else:
                                 # Check to see if this message contains any of the keywords
-                                for keyword in keywords:
-                                    if keyword in message.lower():
-                                        send_to_twitter = True
-                                        break
+                                if keywords:
+                                    for keyword in keywords:
+                                        if keyword in message.lower():
+                                            send_to_twitter = True
+                                            break
+                                else:
+                                    send_to_twitter = True
                             
                                 # Check to see if the message was directed at this account
-                                if reply_re.search(message):
-                                    send_to_twitter = True
-                                    message = reply_re.sub('', message).strip()
+                                if account.philter_replies:
+                                    if reply_re.search(message):
+                                        send_to_twitter = True
+                                        message = reply_re.sub('', message).strip()
                                 
                         if send_to_twitter:
                             
                             if account.strip_tags:
                                 print "Removing tags"
                                 message = tag_re.sub('', message)
-                            
+
+                            if account.append_tags:
+                                pass
                             # Clean up whitespace
                             message = message.strip()
 

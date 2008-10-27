@@ -25,9 +25,12 @@ class TwitterAccount(models.Model):
     username = models.CharField(_('username'), blank=True,  max_length=80)
     password = models.CharField(_('password'), blank=True,  max_length=80)
     philter = models.CharField(_('filter'), help_text='Only messages containing this phrase will be passed on to the twitter account.  For multiple phrases, seperate them by a comma.', blank=True,  max_length=80)
+    philter_replies = models.BooleanField(_('filter replies'), help_text="Tick this box to filter @replies automatically", default=True)
     minimum_datetime = models.DateTimeField(_('minimum datetime'), help_text='Do not smash tweets that occured before this date/time', blank=True, null=True)
     strip_tags = models.BooleanField(_('strip tags'), default=False)
-    prepend_names = models.BooleanField(default=True)
+    prepend_names = models.BooleanField(_('prepend names'), help_text="Tick this box to prepend the names of the individual twitter accounts to the smashed message", default=True)
+    append_tags = models.BooleanField(_('append tags'), help_text="Take all tags and put them at the end", default=True)
+    
     active = models.BooleanField(_('active'), default=True)
     feeds = models.ManyToManyField(Feed)
 
