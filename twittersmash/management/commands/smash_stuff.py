@@ -110,7 +110,7 @@ class Command(BaseCommand):
                         if send_to_twitter:
                             try:
                                 if not options.get('dryrun'):
-                                    status = api.PostUpdate(message)
+                                    status = api.PostUpdate(message[:139])
                                     if not quiet:
                                         print "   * Sent to Twitter: '%s' (%s)" % (message, keyword,)
                                 else:
