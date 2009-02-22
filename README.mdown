@@ -3,7 +3,13 @@ Twitter Smash
 
 ## What is Twitter Smash? ##
 
+Twitter Smash is a basic Django application which allows the piping of multiple Twitter accounts (using their RSS feeds) into a single Twitter account.  There are multiple ways to determine which tweets from the source accounts get piped into the single account; in addition there are a number of formatting options to massage the incoming tweets for uniformity.
+
 ## Why would I want to use Twitter Smash? ##
+
+The original user case scenario is for "group" twitter accounts.  Imagine if you would like for a number of individuals to cover an event, and create an event-related Twitter account for that purpose.  Those individuals generally have their own personal Twitter accounts and would prefer not to have to flip back and forth between multiple accounts.
+
+Twittersmash will monitor those user's Twitter streams and pluck out the relevant tweets and pipe them into a new account base on each destination account's preferences and filtering rules.
 
 ## How to Setup Twitter Smash? ##
 
@@ -11,4 +17,27 @@ Twitter Smash
 
 - [pytz](http://pytz.sourceforge.net/)
 - [feedparser](http://feedparser.org)
-- [Twitter](http://twitter.com) accounts
+- [python-twitter](http://code.google.com/p/python-twitter/)
+- A few [Twitter](http://twitter.com) accounts
+
+### Installation ###
+
+1. Clone this git repository to somewhere on your local machine or server: `git clone git://github.com/clintecker/twittersmash.git`
+2. Enter the new directory with `cd twittersmash`
+3. Install the Django application: `sudo python setup.py install`
+4. Edit your Django project's `settings.py` and add `twittersmash` to your `INSTALLED_APPS`
+5. In your project folder, update your database: `python manage.py syncdb`
+
+### Configuration ###
+
+
+
+## License ##
+
+Copyright &copy; 2009 Clint Ecker.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
