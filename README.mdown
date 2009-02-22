@@ -1,0 +1,14 @@
+Twitter Smash
+=============
+
+## What is Twitter Smash? ##
+
+## Why would I want to use Twitter Smash? ##
+
+## How to Setup Twitter Smash? ##
+
+### Requirements ###
+
+- [pytz](http://pytz.sourceforge.net/)
+- [feedparser](http://feedparser.org)
+- [Twitter](http://twitter.com) accounts
