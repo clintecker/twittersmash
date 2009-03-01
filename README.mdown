@@ -30,7 +30,20 @@ Twittersmash will monitor those user's Twitter streams and pluck out the relevan
 
 ### Configuration ###
 
+This application allows you to merge n-twitter streams into a single output feed based on a number of parameters, to that end you configure the credentials for the output feed, specify your filtering parameters, and the supply a number of input feeds:
 
+- Go to your project's admin interface and find the "Twittersmash" section.  Click on the green plus icon next to "Twitter Accounts
+- The first two fields are the `Username` and `Password` of the output twitter feed
+- `Filter` contains a string or list of strings which, if present in an input tweet, determine whether it is passed to the output account. Currently only or-based filtering is possible.  Specify multiple parameters by separating them with a comma.  Examples: "#macworld, #mwsf", "djangocon", "django, google".
+- `Filter replies` determines whether or not @-formatted replies to this account from the source accounts will be passed through.  This is essentially a special filter that is equal to "@<>". 
+- `Minimum Date & Time` determines an event horizon beyond which filter will begin to take place.  Setting this date/time will prevent tweets made before it, regardless of their content, to be passed into the output account.
+- `Strip tags` will remove any hash tags before passing the messages into the output feed.  You may want to use hash tags for this applications filtering purposes, but not wish to pass those on to the output account.
+- `Prepend Names`, if enabled, will prepend each output tweet with the username of the input account the original message came from.  For example, if a tweet comes in from an account named 'joe12345', and passes all the filtering tests, the string 'joe12345: ' will be prepended to that message before being sent to the output account.
+- `Append Tags` removes all hash tags from the body of a message and aligns them at the end of the post, in the same order they appeared in the original message.  This option can be destructive to a post if the original tweet used a hash tag in the middle of their message to provide context.  Really only makes sense to move tags that appear at the beginning of a tweet to the end.
+- `Active` determines whether this account and its input accounts should be polled.
+- Finally, the `Feeds` box allows you to specify one or more different input feeds (generally only Twitter style RSS feeds are officially supported).  You can pick as many as you like here, or add a new one.
+  - Adding a new feed requires at minimum two peices of information.  One is a descriptive name for the feed, "Clint Ecker's Twitter", for example.  The second bit of required information is the URL of this Twitter account's RSS feed (it can be found on the account's Twitter page, in the right sidebar).
+  - There is an optional `polling rate` that allows the amount of time between RSS pulls to be specified.   This defaults to 15 minutes, but can be set as low as 0.  Please note that 0 only means that this feed will be checked on each run of the management command.  Since this is generally done using a crontab, the minimum time between polls is about one minute.
 
 ## License ##
 
