@@ -13,7 +13,9 @@ from pytz import timezone
 central = timezone('US/Central')
 utc = pytz.utc
 
+# Parses the "Tweet Format" in Twitter RSS feeds
 twit_re = re.compile(r'^(?P<username>\S+): (?P<message>.*)$')
+# Parses out hashtags
 tag_pat = r'\#([A-Za-z0-9]+)'
 tag_re = re.compile(tag_pat)
 
@@ -68,7 +70,8 @@ class Command(BaseCommand):
                         guid = entry.id
                         tweeted = entry.updated_parsed
                         message = entry.title
-                        #print guid, tweeted, message
+                        # TODO: Should probably consider moving
+                        #  to dateutil here
                         tweeted_dt = datetime.datetime(
                             tweeted[0], 
                             tweeted[1], 
@@ -137,8 +140,18 @@ class Command(BaseCommand):
                 'messages_added': messages_added,
                 'feeds_checked': feeds_checked,
             }
-            
+           
     def process_messages(self, account, message, created, options):
+        """
+        This method determines whether or not a message should be sent
+        to Twitter.  If needed, filters and munging are applied as well.
+        
+        `account` - A Twitter account instance
+        `message` - The text of a single tweet
+        `created` - The date/time at which a Tweet was Tweeted
+        `options` - A dict of options, the only values used here are 'quiet' 
+                    to suppress output.
+        """
         send_to_twitter = False
         quiet = options.get('quiet')
         reply_re = re.compile(r'\@%s' % account.username)
@@ -163,6 +176,9 @@ class Command(BaseCommand):
             # Remove userames if needed
             if twit_re.search(message) and not account.prepend_names:
                 message = twit_re.search(message).groups()[1]
+            
+            if account.prepend_names:
+                message = "@" + message
             
             # Check to see if this message contains any of the keywords
             if keywords:
