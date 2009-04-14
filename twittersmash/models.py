@@ -5,7 +5,7 @@ from django.utils.translation import gettext_lazy as _
 class Feed(models.Model):
     """A feed of tweets"""
     name = models.CharField(blank=True,  max_length=80)
-	initials = models.CharField(blank=True, max_length=10)
+    initials = models.CharField(blank=True, max_length=10)
     url = models.URLField(_('url'), blank=True, verify_exists=False)
     last_checked = models.DateTimeField(_('last checked'), blank=True, null=True)
     polling_rate = models.IntegerField(_('polling rate'), blank=True, null=True, default=15)

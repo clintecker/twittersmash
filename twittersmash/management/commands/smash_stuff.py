@@ -53,7 +53,8 @@ class Command(BaseCommand):
                     print " - %s" % (f,)
                 # Get list of feeds whose last_update + polling_rate is less than now
                 if f.last_checked == None or f.last_checked + \
-                datetime.timedelta(minutes=f.polling_rate) < datetime.datetime.now():
+                datetime.timedelta(minutes=f.polling_rate) < datetime.datetime.now() or \
+                options.get('dryrun'):
                     accounts_ready += 1
                     # Update timestamp
                     f.last_checked = datetime.datetime.now()
@@ -116,16 +117,15 @@ class Command(BaseCommand):
                                 if not options.get('dryrun'):
                                     status = api.PostUpdate(message[:139])
                                     if not quiet:
-                                        print "   * Sent to Twitter: '%s' (%s)" % (message, keyword,)
+                                        print "   * Sent to Twitter: '%s' (%s)" % (message, account.philter.lower().strip(),)
                                 else:
                                     if not quiet:
-                                        print "   * Dry run: '%s' (%s)" % (message, keyword,)
+                                        print "   * Dry run: '%s' (%s)" % (message, account.philter.lower().strip(),)
                                 entries_tweeted += 1
                                 msg.sent_to_twitter = True
                                 msg.save()
-                            except e:
-                                if not quiet:
-                                    print "   - Failed to send to twitter (%s)" % (e,)
+                            except Exception, e:
+                                print "   - Failed to send to twitter (%s)" % (e,)
                 else:
                     if not quiet:
                         print "   * Checked within the last %s minutes" % (f.polling_rate)
@@ -184,7 +184,8 @@ class Command(BaseCommand):
             # Check to see if this message contains any of the keywords
             if keywords:
                 for keyword in keywords:
-                    if keyword in message.lower():
+                    kpat = re.compile(r'%s(\s|$)' % keyword)
+                    if kpat.search(message):
                         send_to_twitter = True
                         break
             else:
@@ -195,12 +196,15 @@ class Command(BaseCommand):
                 if reply_re.search(message):
                     send_to_twitter = True
                     message = reply_re.sub('', message).strip()
-    
+
+            # TODO Strip Keywords only
             if account.strip_tags:
                 if not quiet:
                     print "   * Removing tags"
-                message = tag_re.sub('', message)
-        
+                    print "     - (%s)(\s|$)" % ('|'.join(keywords),)
+                
+                message = re.sub(r'(%s)(\s|$)' % ('|'.join(keywords),), '', message)
+                
             if account.append_tags:
                 m = re.findall(tag_pat, message)
                 if m:
