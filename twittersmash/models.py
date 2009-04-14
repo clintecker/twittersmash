@@ -5,6 +5,7 @@ from django.utils.translation import gettext_lazy as _
 class Feed(models.Model):
     """A feed of tweets"""
     name = models.CharField(blank=True,  max_length=80)
+	initials = models.CharField(blank=True, max_length=10)
     url = models.URLField(_('url'), blank=True, verify_exists=False)
     last_checked = models.DateTimeField(_('last checked'), blank=True, null=True)
     polling_rate = models.IntegerField(_('polling rate'), blank=True, null=True, default=15)
@@ -30,7 +31,8 @@ class TwitterAccount(models.Model):
     strip_tags = models.BooleanField(_('strip tags'), default=False)
     prepend_names = models.BooleanField(_('prepend names'), help_text="Tick this box to prepend the names of the individual twitter accounts to the smashed message", default=True)
     append_tags = models.BooleanField(_('append tags'), help_text="Take all tags and put them at the end", default=True)
-    
+    append_initials = models.BooleanField(_('append initials'), help_text="Append the author initials to the end", default = False)
+ 
     active = models.BooleanField(_('active'), default=True)
     feeds = models.ManyToManyField(Feed)
 

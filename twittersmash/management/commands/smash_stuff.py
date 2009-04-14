@@ -106,9 +106,10 @@ class Command(BaseCommand):
                             messages_added += 1
                             send_to_twitter, message = self.process_messages(
                                 account=account,
+                                source_feed = f,
                                 message=message,
                                 created=tweeted_dt_utc,
-                                options=options,
+                                options=options
                             )
                         if send_to_twitter:
                             try:
@@ -141,7 +142,7 @@ class Command(BaseCommand):
                 'feeds_checked': feeds_checked,
             }
            
-    def process_messages(self, account, message, created, options):
+    def process_messages(self, account, source_feed, message, created, options):
         """
         This method determines whether or not a message should be sent
         to Twitter.  If needed, filters and munging are applied as well.
@@ -179,7 +180,7 @@ class Command(BaseCommand):
             
             if account.prepend_names:
                 message = "@" + message
-            
+             
             # Check to see if this message contains any of the keywords
             if keywords:
                 for keyword in keywords:
@@ -211,6 +212,9 @@ class Command(BaseCommand):
                     # append each tag to message
                     for match in m:
                         message += " #%s" % (match,)
+
+            if account.append_initials and source_feed.initials:
+                message += " ^%s" % source_feed.initials
 
             # Clean up whitespace
             message = message.strip()
