@@ -42,6 +42,7 @@ class Command(BaseCommand):
         feeds_checked = 0
         messages_sent = []
         accounts = TwitterAccount.objects.all().filter(active=True)
+        feeds_to_mark_as_checked = []
         for account in accounts:
             api = twitter.Api(username=account.username, password=account.password)
             if not quiet:
@@ -56,9 +57,7 @@ class Command(BaseCommand):
                 datetime.timedelta(minutes=f.polling_rate) < datetime.datetime.now() or \
                 options.get('dryrun'):
                     accounts_ready += 1
-                    # Update timestamp
-                    f.last_checked = datetime.datetime.now()
-                    f.save()
+                    feeds_to_mark_as_checked.append(f.id)
                     if not quiet:
                         print "   * Pulling feed"
                     # Pull each feed
@@ -131,6 +130,9 @@ class Command(BaseCommand):
                         print "   * Checked within the last %s minutes" % (f.polling_rate)
                     accounts_skipped += 1
         
+        feeds_to_mark = Feed.objects.filter(id__in=feeds_to_mark_as_checked)
+        feeds_to_mark.update(last_checked=datetime.datetime.now())
+
         if options.get('debug'):
             return {
                 'entries_pulled': entries_pulled,
