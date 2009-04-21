@@ -68,10 +68,8 @@ class Command(BaseCommand):
                     for entry in d['entries']:
                         entries_pulled += 1
                         guid = entry.id
-                        print guid
                         tweeted = entry.updated_parsed
                         message = entry.title
-                        print str(message)
                         # TODO: Should probably consider moving
                         #  to dateutil here
                         tweeted_dt = datetime.datetime(
@@ -93,7 +91,6 @@ class Command(BaseCommand):
                             tweeted_dt_utc.utctimetuple()[4],
                             tweeted_dt_utc.utctimetuple()[5],
                         )
-                        print tweeted_dt
                         msg, created = Message.objects.get_or_create(
                             guid=guid, 
                             twitter_account=account, 
@@ -103,7 +100,6 @@ class Command(BaseCommand):
                                 'message': message,
                                 'twitter_account': account,
                         })
-                        print msg, created
                         send_to_twitter = False                      
                         if created:
                             messages_added += 1
@@ -114,7 +110,6 @@ class Command(BaseCommand):
                                 created=tweeted_dt_utc,
                                 options=options
                             )
-                        print send_to_twitter, str(message)
                         if send_to_twitter:
                             try:
                                 if not options.get('dryrun'):
