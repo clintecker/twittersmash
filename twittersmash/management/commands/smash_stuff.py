@@ -131,7 +131,9 @@ class Command(BaseCommand):
                     accounts_skipped += 1
         
         feeds_to_mark = Feed.objects.filter(id__in=feeds_to_mark_as_checked)
-        feeds_to_mark.update(last_checked=datetime.datetime.now())
+        
+        if feeds_to_mark.count():
+          feeds_to_mark.update(last_checked=datetime.datetime.now())
 
         if options.get('debug'):
             return {
