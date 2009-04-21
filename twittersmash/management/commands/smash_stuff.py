@@ -71,7 +71,7 @@ class Command(BaseCommand):
                         print guid
                         tweeted = entry.updated_parsed
                         message = entry.title
-                        print message
+                        print str(message)
                         # TODO: Should probably consider moving
                         #  to dateutil here
                         tweeted_dt = datetime.datetime(
@@ -114,7 +114,7 @@ class Command(BaseCommand):
                                 created=tweeted_dt_utc,
                                 options=options
                             )
-                        print send_to_twitter, message
+                        print send_to_twitter, str(message)
                         if send_to_twitter:
                             try:
                                 if not options.get('dryrun'):
@@ -233,4 +233,4 @@ class Command(BaseCommand):
             # Remove double spaces left from replacements
             message = message.replace('  ', ' ')
             
-        return send_to_twitter, message
+        return send_to_twitter, unicode(message)
